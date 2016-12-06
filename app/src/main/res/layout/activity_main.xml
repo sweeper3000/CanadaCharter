@@ -55,8 +55,44 @@
         android:id="@+id/democratic_rights_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="5dp"
         android:layout_below="@id/fundamental_freedoms_button"
+        android:layout_marginBottom="5dp"
         android:hint="@string/democratic_rights"
         android:onClick="toDemocraticRightsActivity" />
+
+    <Button
+        android:id="@+id/mobility_rights_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/democratic_rights_button"
+        android:layout_marginBottom="5dp"
+        android:hint="@string/mobility_rights"
+        android:onClick="toMobilityRightsActivity" />
+
+    <Button
+        android:id="@+id/legal_rights_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/mobility_rights_button"
+        android:layout_marginBottom="5dp"
+        android:hint="@string/legal_rights"
+        android:onClick="toLegalRightsActivity" />
+
+    <Button
+        android:id="@+id/equality_rights_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/legal_rights_button"
+        android:layout_marginBottom="5dp"
+        android:hint="@string/equality_rights"
+        android:onClick="toEqualityRightsActivity" />
+
+    <Button
+        android:id="@+id/official_languages_of_canada_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/equality_rights_button"
+        android:layout_marginBottom="5dp"
+        android:hint="@string/official_languages_of_canada"
+        android:onClick="toOfficialLanguagesOfCanadaActivity" />
 </RelativeLayout>

@@ -30,4 +30,28 @@ public class MainActivity extends AppCompatActivity {
         Intent democratic_rights = new Intent(MainActivity.this, DemocraticRightsActivity.class);
         startActivity(democratic_rights);
     }
+
+    // Go to Mobility Rights Activity
+    public void toMobilityRightsActivity(View view) {
+        Intent mobility_rights = new Intent(MainActivity.this, MobilityRightsActivity.class);
+        startActivity(mobility_rights);
+    }
+
+    // Go to Legal Rights Activity
+    public void toLegalRightsActivity(View view) {
+        Intent legal_rights = new Intent(MainActivity.this, LegalRightsActivity.class);
+        startActivity(legal_rights);
+    }
+
+    // Go to Equality Rights Activity
+    public void toEqualityRightsActivity(View view) {
+        Intent equality_rights = new Intent(MainActivity.this, RqualityRightsActivity.class);
+        startActivity(equality_rights);
+    }
+
+    // Go to Official Languages of Canada Activity
+    public void toOfficialLanguagesOfCanadaActivity(View view) {
+        Intent official_languages = new Intent(MainActivity.this, OfficialLanguagesOfCanadaActivity.class);
+        startActivity(official_languages);
+    }
 }
