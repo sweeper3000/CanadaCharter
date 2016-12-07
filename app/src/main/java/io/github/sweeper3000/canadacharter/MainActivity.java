@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Go to Equality Rights Activity
     public void toEqualityRightsActivity(View view) {
-        Intent equality_rights = new Intent(MainActivity.this, RqualityRightsActivity.class);
+        Intent equality_rights = new Intent(MainActivity.this, EqualityRightsActivity.class);
         startActivity(equality_rights);
     }
 
@@ -53,5 +53,29 @@ public class MainActivity extends AppCompatActivity {
     public void toOfficialLanguagesOfCanadaActivity(View view) {
         Intent official_languages = new Intent(MainActivity.this, OfficialLanguagesOfCanadaActivity.class);
         startActivity(official_languages);
+    }
+
+    // Go to Minority Language Educational Rights Activity
+    public void toMinorityLanguageEducationalRightsActivity(View view) {
+        Intent minority_language_educational_rights = new Intent(MainActivity.this, MinorityLanguageEducationalRightsActivity.class);
+        startActivity(minority_language_educational_rights);
+    }
+
+    // Go to Enforcement Activity
+    public void toEnforcementActivity(View view) {
+        Intent enforcement = new Intent(MainActivity.this, EnforcementActivity.class);
+        startActivity(enforcement);
+    }
+
+    // Go to General Activity
+    public void toGeneralActivity(View view) {
+        Intent general = new Intent(MainActivity.this, GeneralActivity.class);
+        startActivity(general);
+    }
+
+    // Go to Application of Charter Activity
+    public void toApplicationOfCharterActivity(View view) {
+        Intent application = new Intent(MainActivity.this, ApplicationOfCharterActivity.class);
+        startActivity(application);
     }
 }

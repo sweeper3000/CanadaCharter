@@ -15,6 +15,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".GuaranteeOfRightsAndFreedomsActivity" />
+        <activity android:name=".FundamentalFreedomsActivity" />
+        <activity android:name=".DemocraticRightsActivity" />
+        <activity android:name=".MobilityRightsActivity" />
+        <activity android:name=".LegalRightsActivity" />
+        <activity android:name=".EqualityRightsActivity" />
+        <activity android:name=".OfficialLanguagesOfCanadaActivity" />
+        <activity android:name=".MinorityLanguageEducationalRightsActivity" />
+        <activity android:name=".EnforcementActivity" />
+        <activity android:name=".GeneralActivity" />
+        <activity android:name=".ApplicationOfCharterActivity"></activity>
     </application>
 
 </manifest>

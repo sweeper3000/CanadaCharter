@@ -13,4 +13,8 @@
     <string name="legal_rights">LEGAL RIGHTS</string>
     <string name="equality_rights">EQUALITY RIGHTS</string>
     <string name="official_languages_of_canada">OFFICIAL LANGUAGES OF CANADA</string>
+    <string name="minority_language_educational_rights">MINORITY LANGUAGE EDUCATIONAL RIGHTS</string>
+    <string name="enforcement">ENFORCEMENT</string>
+    <string name="general">GENERAL</string>
+    <string name="application_of_charter">APPLICATION OF CHARTER</string>
 </resources>

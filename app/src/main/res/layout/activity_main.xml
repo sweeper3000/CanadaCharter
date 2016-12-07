@@ -95,4 +95,40 @@
         android:layout_marginBottom="5dp"
         android:hint="@string/official_languages_of_canada"
         android:onClick="toOfficialLanguagesOfCanadaActivity" />
+
+    <Button
+        android:id="@+id/minority_language_educational_rights_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/official_languages_of_canada_button"
+        android:layout_marginBottom="5dp"
+        android:hint="@string/minority_language_educational_rights"
+        android:onClick="toMinorityLanguageEducationalRightsActivity" />
+
+    <Button
+        android:id="@+id/enforcement_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/minority_language_educational_rights_button"
+        android:layout_marginBottom="5dp"
+        android:hint="@string/enforcement"
+        android:onClick="toEnforcementActivity" />
+
+    <Button
+        android:id="@+id/general_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/enforcement_button"
+        android:layout_marginBottom="5dp"
+        android:hint="@string/general"
+        android:onClick="toGeneralActivity" />
+
+    <Button
+        android:id="@+id/application_of_charter_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/general_button"
+        android:layout_marginBottom="5dp"
+        android:hint="@string/application_of_charter"
+        android:onClick="toApplicationOfCharterActivity" />
 </RelativeLayout>
