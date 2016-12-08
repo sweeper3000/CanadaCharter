@@ -23,39 +23,15 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/title"
-        android:layout_marginBottom="2dp"
+        android:layout_marginBottom="5dp"
         android:textSize="12sp"
         android:text="@string/rights_and_freedoms_in_canada" />
 
     <TextView
-        android:id="@+id/everyone_has_the_following_fundamental_freedoms"
+        android:id="@+id/charter_guarantees_freedoms_but_with_limits"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/rights_and_freedoms_in_canada"
         android:layout_marginBottom="2dp"
-        android:text="@string/everyone_has_the_following_fundamental_freedoms" />
-
-    <TextView
-        android:id="@+id/freedom_of_conscience_and_religion"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/everyone_has_the_following_fundamental_freedoms"
-        android:layout_marginBottom="2dp"
-        android:text="@string/freedom_of_conscience_and_religion" />
-
-    <TextView
-        android:id="@+id/freedom_of_peaceful_assembly"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/freedom_of_conscience_and_religion"
-        android:layout_marginBottom="2dp"
-        android:text="@string/freedom_of_peaceful_assembly" />
-
-    <TextView
-        android:id="@+id/freedom_of_association"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/freedom_of_peaceful_assembly"
-        android:layout_marginBottom="2dp"
-        android:text="@string/freedom_of_association" />
+        android:text="@string/charter_guarantees_freedoms_but_with_limits" />
 </RelativeLayout>

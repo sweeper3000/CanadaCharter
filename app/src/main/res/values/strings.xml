@@ -21,6 +21,10 @@
 
     <!-- GuaranteeOfRightsAndFreedomsActivity Strings -->
     <string name="rights_and_freedoms_in_canada">Rights and freedoms in Canada</string>
+    <string name="charter_guarantees_freedoms_but_with_limits">\t 1. The Canadian Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.</string>
+
+    <!-- FundamentalFreedomsActivity -->
+    <string name="fundamental_freedoms_lower_case">Fundamental Freedoms</string>
     <string name="everyone_has_the_following_fundamental_freedoms">\t 2. Everyone has the following fundamental freedoms:</string>
     <string name="freedom_of_conscience_and_religion">\t (a) freedom of conscience and religion;</string>
     <string name="freedom_of_speech_and_expression">\t (b) freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication;</string>
