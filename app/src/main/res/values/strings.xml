@@ -30,4 +30,14 @@
     <string name="freedom_of_speech_and_expression">\t (b) freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication;</string>
     <string name="freedom_of_peaceful_assembly">\t (c) freedom of peaceful assembly; and</string>
     <string name="freedom_of_association">\t (d) freedom of association.</string>
+
+    <!-- DemocraticRightsActivityStrings -->
+    <string name="democratic_rights_of_citizens">Democratic rights of citizens</string>
+    <string name="every_citizen_has_right_to_vote_and_hold_office">\t 3. Every citizen of Canada has the right to vote in an election of members of the House of Commons or of a legislative assembly and to be qualified for membership therein.</string>
+    <string name="maximum_duration_of_legislative_bodies">Maximum duration of legislative bodies</string>
+    <string name="bodies_limited_to_5_years">\t 4. (1) No House of Commons and no legislative assembly shall continue for longer than five years from the date fixed for the return of the writs at a general election of its members. (81)</string>
+    <string name="continuation_in_special_circumstances">Continuation in special circumstances</string>
+    <string name="bodies_can_be_continued_longer_in_times_of_war">\t (2) In time of real or apprehended war, invasion or insurrection, a House of Commons may be continued by Parliament and a legislative assembly may be continued by the legislature beyond five years if such continuation is not opposed by the votes of more than one-third of the members of the House of Commons or the legislative assembly, as the case may be. (82)</string>
+    <string name="annual_sitting_of_legislative_bodies">Annual sitting of legislative bodies</string>
+    <string name="there_shall_be_sitting_of_parliament_and_bodies_once_every_twelve_months">\t 5. There shall be a sitting of Parliament and of each legislature at least once every twelve months. (83)</string>
 </resources>

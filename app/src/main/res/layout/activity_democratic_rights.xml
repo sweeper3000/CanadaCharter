@@ -10,4 +10,79 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="io.github.sweeper3000.canadacharter.DemocraticRightsActivity">
 
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:gravity="center"
+        android:text="@string/democratic_rights" />
+
+    <TextView
+        android:id="@+id/democratic_rights_of_citizens"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_marginBottom="2dp"
+        android:textSize="12sp"
+        android:text="@string/democratic_rights_of_citizens" />
+
+    <TextView
+        android:id="@+id/every_citizen_has_right_to_vote_and_hold_office"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/democratic_rights_of_citizens"
+        android:layout_marginBottom="2dp"
+        android:text="@string/every_citizen_has_right_to_vote_and_hold_office" />
+
+    <TextView
+        android:id="@+id/maximum_duration_of_legislative_bodies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/every_citizen_has_right_to_vote_and_hold_office"
+        android:layout_marginBottom="2dp"
+        android:textSize="12sp"
+        android:text="@string/maximum_duration_of_legislative_bodies" />
+
+    <TextView
+        android:id="@+id/bodies_limited_to_5_years"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/maximum_duration_of_legislative_bodies"
+        android:layout_marginBottom="2dp"
+        android:text="@string/bodies_limited_to_5_years" />
+
+    <TextView
+        android:id="@+id/continuation_in_special_circumstances"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bodies_limited_to_5_years"
+        android:layout_marginBottom="2dp"
+        android:textSize="12sp"
+        android:text="@string/continuation_in_special_circumstances" />
+
+    <TextView
+        android:id="@+id/bodies_can_be_continued_longer_in_times_of_war"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/continuation_in_special_circumstances"
+        android:layout_marginBottom="2dp"
+        android:text="@string/bodies_can_be_continued_longer_in_times_of_war" />
+
+    <TextView
+        android:id="@+id/annual_sitting_of_legislative_bodies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/bodies_can_be_continued_longer_in_times_of_war"
+        android:layout_marginBottom="2dp"
+        android:textSize="12sp"
+        android:text="@string/annual_sitting_of_legislative_bodies" />
+
+    <TextView
+        android:id="@+id/there_shall_be_sitting_of_parliament_and_bodies_once_every_twelve_months"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/annual_sitting_of_legislative_bodies"
+        android:layout_marginBottom="2dp"
+        android:text="@string/there_shall_be_sitting_of_parliament_and_bodies_once_every_twelve_months" />
 </RelativeLayout>
