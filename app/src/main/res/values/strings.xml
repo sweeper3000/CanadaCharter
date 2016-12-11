@@ -23,7 +23,7 @@
     <string name="rights_and_freedoms_in_canada">Rights and freedoms in Canada</string>
     <string name="charter_guarantees_freedoms_but_with_limits">\t 1. The Canadian Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.</string>
 
-    <!-- FundamentalFreedomsActivity -->
+    <!-- FundamentalFreedomsActivity Strings -->
     <string name="fundamental_freedoms_lower_case">Fundamental Freedoms</string>
     <string name="everyone_has_the_following_fundamental_freedoms">\t 2. Everyone has the following fundamental freedoms:</string>
     <string name="freedom_of_conscience_and_religion">\t (a) freedom of conscience and religion;</string>
@@ -31,7 +31,7 @@
     <string name="freedom_of_peaceful_assembly">\t (c) freedom of peaceful assembly; and</string>
     <string name="freedom_of_association">\t (d) freedom of association.</string>
 
-    <!-- DemocraticRightsActivityStrings -->
+    <!-- DemocraticRightsActivity Strings -->
     <string name="democratic_rights_of_citizens">Democratic rights of citizens</string>
     <string name="every_citizen_has_right_to_vote_and_hold_office">\t 3. Every citizen of Canada has the right to vote in an election of members of the House of Commons or of a legislative assembly and to be qualified for membership therein.</string>
     <string name="maximum_duration_of_legislative_bodies">Maximum duration of legislative bodies</string>
@@ -40,4 +40,18 @@
     <string name="bodies_can_be_continued_longer_in_times_of_war">\t (2) In time of real or apprehended war, invasion or insurrection, a House of Commons may be continued by Parliament and a legislative assembly may be continued by the legislature beyond five years if such continuation is not opposed by the votes of more than one-third of the members of the House of Commons or the legislative assembly, as the case may be. (82)</string>
     <string name="annual_sitting_of_legislative_bodies">Annual sitting of legislative bodies</string>
     <string name="there_shall_be_sitting_of_parliament_and_bodies_once_every_twelve_months">\t 5. There shall be a sitting of Parliament and of each legislature at least once every twelve months. (83)</string>
+
+    <!-- MobilityRightsActivity Strings -->
+    <string name="mobility_of_citizens">Mobility of citizens</string>
+    <string name="every_citizen_has_right_to_enter_remain_and_leave_canada">\t 6. (1) Every citizen of Canada has the right to enter, remain in and leave Canada.</string>
+    <string name="rights_to_move_and_gain_livelihood">Rights to move and gain livelihood</string>
+    <string name="every_citizen_and_permanent_resident_has_right">\t (2) Every citizen of Canada and every person who has the status of a permanent resident of Canada has the right</string>
+    <string name="to_move_and_take_up_residence_in_any_province">\t (a) to move to and take up residence in any province; and</string>
+    <string name="to_pursue_a_livelihood_in_any_province">\t (b) to pursue the gaining of a livelihood in any province.</string>
+    <string name="limitation">Limitation</string>
+    <string name="the_rights_specified_in_subsection_2_are_subject_to">\t (3) The rights specified in subsection (2) are subject to</string>
+    <string name="any_laws_of_general_application_in_force_other_than_those_that_discriminate_on_basis_of_province_of_present_or_future_residence">\t (a) any laws or practices of general application in force in a province other than those that discriminate among persons primarily on the basis of province of present or previous residence; and</string>
+    <string name="any_laws_providing_social_programs_that_require_residency">\t (b) any laws providing for reasonable residency requirements as a qualification for the receipt of publicly provided social services.</string>
+    <string name="affirmative_action_programs">Affirmative action programs</string>
+    <string name="subsections_3_and_3_dont_preclude_any_law_program_or_activity_that_aims_to_better_the_people_in_province_who_are_disadvantaged">\t (4) Subsections (2) and (3) do not preclude any law, program or activity that has as its object the amelioration in a province of conditions of individuals in that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.</string>
 </resources>

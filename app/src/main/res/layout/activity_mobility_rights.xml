@@ -10,4 +10,111 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="io.github.sweeper3000.canadacharter.MobilityRightsActivity">
 
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:gravity="center"
+        android:text="@string/mobility_rights" />
+
+    <TextView
+        android:id="@+id/mobility_of_citizens"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_marginBottom="2dp"
+        android:textSize="12sp"
+        android:text="@string/mobility_of_citizens" />
+
+    <TextView
+        android:id="@+id/every_citizen_has_right_to_enter_remain_and_leave_canada"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/mobility_of_citizens"
+        android:layout_marginBottom="2dp"
+        android:text="@string/every_citizen_has_right_to_enter_remain_and_leave_canada" />
+
+    <TextView
+        android:id="@+id/rights_to_move_and_gain_livelihood"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/every_citizen_has_right_to_enter_remain_and_leave_canada"
+        android:layout_marginBottom="2dp"
+        android:textSize="12sp"
+        android:text="@string/rights_to_move_and_gain_livelihood" />
+
+    <TextView
+        android:id="@+id/every_citizen_and_permanent_resident_has_right"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rights_to_move_and_gain_livelihood"
+        android:layout_marginBottom="2dp"
+        android:text="@string/every_citizen_and_permanent_resident_has_right" />
+
+    <TextView
+        android:id="@+id/to_move_and_take_up_residence_in_any_province"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/every_citizen_and_permanent_resident_has_right"
+        android:layout_marginBottom="2dp"
+        android:text="@string/to_move_and_take_up_residence_in_any_province" />
+
+    <TextView
+        android:id="@+id/to_pursue_a_livelihood_in_any_province"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/to_move_and_take_up_residence_in_any_province"
+        android:layout_marginBottom="2dp"
+        android:text="@string/to_pursue_a_livelihood_in_any_province" />
+
+    <TextView
+        android:id="@+id/limitation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/to_pursue_a_livelihood_in_any_province"
+        android:layout_marginBottom="2dp"
+        android:textSize="12sp"
+        android:text="@string/limitation" />
+
+    <TextView
+        android:id="@+id/the_rights_specified_in_subsection_2_are_subject_to"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/limitation"
+        android:layout_marginBottom="2dp"
+        android:text="@string/the_rights_specified_in_subsection_2_are_subject_to" />
+
+    <TextView
+        android:id="@+id/any_laws_of_general_application_in_force_other_than_those_that_discriminate_on_basis_of_province_of_present_or_future_residence"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/the_rights_specified_in_subsection_2_are_subject_to"
+        android:layout_marginBottom="2dp"
+        android:text="@string/any_laws_of_general_application_in_force_other_than_those_that_discriminate_on_basis_of_province_of_present_or_future_residence" />
+
+    <TextView
+        android:id="@+id/any_laws_providing_social_programs_that_require_residency"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/any_laws_of_general_application_in_force_other_than_those_that_discriminate_on_basis_of_province_of_present_or_future_residence"
+        android:layout_marginBottom="2dp"
+        android:text="@string/any_laws_providing_social_programs_that_require_residency" />
+
+    <TextView
+        android:id="@+id/affirmative_action_programs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/any_laws_providing_social_programs_that_require_residency"
+        android:layout_marginBottom="2dp"
+        android:textSize="12sp"
+        android:text="@string/affirmative_action_programs" />
+
+    <TextView
+        android:id="@+id/subsections_3_and_3_dont_preclude_any_law_program_or_activity_that_aims_to_better_the_people_in_province_who_are_disadvantaged"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/affirmative_action_programs"
+        android:layout_marginBottom="2dp"
+        android:text="@string/subsections_3_and_3_dont_preclude_any_law_program_or_activity_that_aims_to_better_the_people_in_province_who_are_disadvantaged" />
 </RelativeLayout>
