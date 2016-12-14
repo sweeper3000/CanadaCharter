@@ -53,7 +53,7 @@
     <string name="any_laws_of_general_application_in_force_other_than_those_that_discriminate_on_basis_of_province_of_present_or_future_residence">\t (a) any laws or practices of general application in force in a province other than those that discriminate among persons primarily on the basis of province of present or previous residence; and</string>
     <string name="any_laws_providing_social_programs_that_require_residency">\t (b) any laws providing for reasonable residency requirements as a qualification for the receipt of publicly provided social services.</string>
     <string name="affirmative_action_programs">Affirmative action programs</string>
-    <string name="subsections_3_and_3_dont_preclude_any_law_program_or_activity_that_aims_to_better_the_people_in_province_who_are_disadvantaged">\t (4) Subsections (2) and (3) do not preclude any law, program or activity that has as its object the amelioration in a province of conditions of individuals in that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.</string>
+    <string name="subsections_2_and_3_dont_preclude_any_law_program_or_activity_that_aims_to_better_the_people_in_province_who_are_disadvantaged">\t (4) Subsections (2) and (3) do not preclude any law, program or activity that has as its object the amelioration in a province of conditions of individuals in that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.</string>
 
     <!-- LegalRightsActivity Strings -->
     <string name="life_liberty_and_security_of_the_person">Life, liberty and security of person</string>
@@ -84,4 +84,9 @@
     <string name="witnesses_have_right_not_to_incriminate_themselves">\t 13. A witness who testifies in any proceedings has the right not to have any incriminating evidence so given used to incriminate that witness in any other proceedings, except in a prosecution for perjury or for the giving of contradictory evidence.</string>
     <string name="interpreter">Interpreter</string>
     <string name="right_to_interpreter">\t 14. A party or witness in any proceedings who does not understand or speak the language in which the proceedings are conducted or who is deaf has the right to the assistance of an interpreter.</string>
+
+    <!-- EqualityRightsActivity Strings -->
+    <string name="equality_before_and_under_law_and_equal_protection_and_benefit_of_law">Equality before and under law and equal protection and benefit of law</string>
+    <string name="every_person_is_equal_no_matter_what">\t 15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.</string>
+    <string name="subsection_1_does_not_preclude_any_law_program_or_activity_that_aims_to_better_the_people_who_are_disadvantaged">\t (2) Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability. (84)</string>
 </resources>

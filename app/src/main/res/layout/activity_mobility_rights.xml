@@ -111,10 +111,10 @@
         android:text="@string/affirmative_action_programs" />
 
     <TextView
-        android:id="@+id/subsections_3_and_3_dont_preclude_any_law_program_or_activity_that_aims_to_better_the_people_in_province_who_are_disadvantaged"
+        android:id="@+id/subsections_2_and_3_dont_preclude_any_law_program_or_activity_that_aims_to_better_the_people_in_province_who_are_disadvantaged"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/affirmative_action_programs"
         android:layout_marginBottom="2dp"
-        android:text="@string/subsections_3_and_3_dont_preclude_any_law_program_or_activity_that_aims_to_better_the_people_in_province_who_are_disadvantaged" />
+        android:text="@string/subsections_2_and_3_dont_preclude_any_law_program_or_activity_that_aims_to_better_the_people_in_province_who_are_disadvantaged" />
 </RelativeLayout>
