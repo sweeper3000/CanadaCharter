@@ -54,4 +54,34 @@
     <string name="any_laws_providing_social_programs_that_require_residency">\t (b) any laws providing for reasonable residency requirements as a qualification for the receipt of publicly provided social services.</string>
     <string name="affirmative_action_programs">Affirmative action programs</string>
     <string name="subsections_3_and_3_dont_preclude_any_law_program_or_activity_that_aims_to_better_the_people_in_province_who_are_disadvantaged">\t (4) Subsections (2) and (3) do not preclude any law, program or activity that has as its object the amelioration in a province of conditions of individuals in that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.</string>
+
+    <!-- LegalRightsActivity Strings -->
+    <string name="life_liberty_and_security_of_the_person">Life, liberty and security of person</string>
+    <string name="everyone_has_right_of_life_liberty_and_security_and_right_not_to_be_deprived_of_it_except_through_fundamental_justice">\t 7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.</string>
+    <string name="search_or_seizure">Search or seizure</string>
+    <string name="everyone_has_the_right_to_be_secure_against_unreasonable_search_or_seizure">\t 8. Everyone has the right to be secure against unreasonable search or seizure.</string>
+    <string name="detention_or_imprisonment">Detention or imprisonment</string>
+    <string name="everyone_has_the_right_not_to_be_arbitrarily_detained_or_imprisoned">\t 9. Everyone has the right not to be arbitrarily detained or imprisoned.</string>
+    <string name="arrest_or_detention">Arrest or detention</string>
+    <string name="everyone_has_the_right_on_arrest_or_detention">\t 10. Everyone has the right on arrest or detention</string>
+    <string name="to_be_informed_promptly_of_the_reasons_therefor">\t (a) to be informed promptly of the reasons therefor;</string>
+    <string name="to_retain_and_instruct_counsel_without_delay_and_to_be_informed_of_that_right">\t (b) to retain and instruct counsel without delay and to be informed of that right; and</string>
+    <string name="to_have_validity_of_detention_determined_and_released_if_detention_is_unlawful">\t (c) to have the validity of the detention determined by way of habeas corpus and to be released if the detention is not lawful.</string>
+    <string name="proceedings_in_criminal_and_penal_matters">Proceedings in criminal and penal matters</string>
+    <string name="any_person_charged_with_an_offence_has_the_right">\t 11. Any person charged with an offence has the right</string>
+    <string name="to_be_informed_without_unreasonable_delay_of_the_specific_offence">\t (a) to be informed without unreasonable delay of the specific offence;</string>
+    <string name="to_be_tried_within_a_reasonable_time">\t (b) to be tried within a reasonable time;</string>
+    <string name="not_to_be_compelled_to_be_a_witness_in_proceedings_against_that_person_in_respect_of_the_offence">\t (c) not to be compelled to be a witness in proceedings against that person in respect of the offence;</string>
+    <string name="to_be_presumed_innocent_until_proven_guilty">\t (d) to be presumed innocent until proven guilty according to law in a fair and public hearing by an independent and impartial tribunal;</string>
+    <string name="not_to_be_denied_reasonable_bail_without_just_cause">\t (e) not to be denied reasonable bail without just cause;</string>
+    <string name="to_have_trial_by_jury_unless_military_tribunal">\t (f) except in the case of an offence under military law tried before a military tribunal, to the benefit of trial by jury where the maximum punishment for the offence is imprisonment for five years or a more severe punishment;</string>
+    <string name="not_be_tried_if_offence_was_not_illegal_before_offense_was_committed">\t (g) not to be found guilty on account of any act or omission unless, at the time of the act or omission, it constituted an offence under Canadian or international law or was criminal according to the general principles of law recognized by the community of nations;</string>
+    <string name="if_acquitted_of_offense_to_not_be_tried_again_and_not_be_punished_more_than_once_for_one_offence">\t (h) if finally acquitted of the offence, not to be tried for it again and, if finally found guilty and punished for the offence, not to be tried or punished for it again; and</string>
+    <string name="if_found_guilty_and_offence_varied_over_time_to_be_benefit_of_the_lesser_punishment">\t (i) if found guilty of the offence and if the punishment for the offence has been varied between the time of commission and the time of sentencing, to the benefit of the lesser punishment.</string>
+    <string name="treatment_or_punishment">Treatment or punishment</string>
+    <string name="no_cruel_or_unusual_punishment">\t 12. Everyone has the right not to be subjected to any cruel and unusual treatment or punishment.</string>
+    <string name="self_crimination">Self-crimination</string>
+    <string name="witnesses_have_right_not_to_incriminate_themselves">\t 13. A witness who testifies in any proceedings has the right not to have any incriminating evidence so given used to incriminate that witness in any other proceedings, except in a prosecution for perjury or for the giving of contradictory evidence.</string>
+    <string name="interpreter">Interpreter</string>
+    <string name="right_to_interpreter">\t 14. A party or witness in any proceedings who does not understand or speak the language in which the proceedings are conducted or who is deaf has the right to the assistance of an interpreter.</string>
 </resources>
