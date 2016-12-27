@@ -25,7 +25,8 @@
         <activity android:name=".MinorityLanguageEducationalRightsActivity" />
         <activity android:name=".EnforcementActivity" />
         <activity android:name=".GeneralActivity" />
-        <activity android:name=".ApplicationOfCharterActivity"></activity>
+        <activity android:name=".ApplicationOfCharterActivity" />
+        <activity android:name=".About"></activity>
     </application>
 
 </manifest>
