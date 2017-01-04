@@ -1,9 +1,6 @@
 ---
-title: "CanadaCharter"
-layout: root
+title: CanadaCharter
 ---
-
-**Download:** [app-debug.apk](apk/CanadaCharter.apk)
 
 CanadaCharter is an Android app that displays the Canadian Charter of Rights and Freedoms in an offline form.
 
