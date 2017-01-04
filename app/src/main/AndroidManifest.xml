@@ -26,7 +26,7 @@
         <activity android:name=".EnforcementActivity" />
         <activity android:name=".GeneralActivity" />
         <activity android:name=".ApplicationOfCharterActivity" />
-        <activity android:name=".About"></activity>
+        <activity android:name=".About" />
     </application>
 
 </manifest>

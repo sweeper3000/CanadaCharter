@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Canada Charter</string>
-    <string name="app_about">About</string>
+    <string name="app_about">ABOUT</string>
 
     <!-- Titles -->
     <string name="guarantee_of_rights_and_freedoms">GUARANTEE OF RIGHTS AND FREEDOMS</string>
@@ -14,6 +14,10 @@
     <string name="enforcement">ENFORCEMENT</string>
     <string name="general">GENERAL</string>
     <string name="application_of_charter">APPLICATION OF CHARTER</string>
+
+    <!-- AboutActivity Strings -->
+    <string name="created_by_sweeper3000">Created by sweeper3000.</string>
+    <string name="sweeper3000_on_github">\@sweeper3000 on GitHub.</string>
 
     <!-- MainActivity Strings -->
     <string name="canadian_charter_of_rights_and_freedoms">CANADIAN CHARTER OF RIGHTS AND FREEDOMS</string>

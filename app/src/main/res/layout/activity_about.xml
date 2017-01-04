@@ -10,4 +10,27 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="io.github.sweeper3000.canadacharter.About">
 
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:gravity="center"
+        android:text="@string/app_about" />
+
+    <TextView
+        android:id="@+id/created_by_sweeper3000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_marginBottom="5dp"
+        android:text="@string/created_by_sweeper3000" />
+
+    <TextView
+        android:id="@+id/sweeper3000_on_github"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/created_by_sweeper3000"
+        android:layout_marginBottom="5dp"
+        android:text="@string/sweeper3000_on_github" />
 </RelativeLayout>

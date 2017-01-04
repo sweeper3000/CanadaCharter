@@ -2,7 +2,9 @@ package io.github.sweeper3000.canadacharter;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
 import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.content.Intent;
 
@@ -12,6 +14,26 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+    }
+
+    // Activate Menu
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.app_about_button:
+                Intent about = new Intent(MainActivity.this, About.class);
+                startActivity(about);
+                break;
+        }
+        return true;
     }
 
     // Go to Guarantee of Rights and Freedoms Activity
@@ -68,9 +90,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(enforcement);
     }
 
-    // Go to About Activity
-    public void toAboutActivity(View view) {
-        Intent general = new Intent(MainActivity.this, About.class);
+    // Go to General Activity
+    public void toGeneralActivity(View view) {
+        Intent general = new Intent(MainActivity.this, GeneralActivity.class);
         startActivity(general);
     }
 
@@ -78,17 +100,5 @@ public class MainActivity extends AppCompatActivity {
     public void toApplicationOfCharterActivity(View view) {
         Intent application = new Intent(MainActivity.this, ApplicationOfCharterActivity.class);
         startActivity(application);
-    }
-    // Go to About Activity
-    public void toAboutActivity() {
-        public boolean onCreateOptionsMenu(Menu menu) {
-            MenuInflater inflater = getMenuInflater();
-            inflater.inflate(R.menu.app_about, menu);
-            return true;
-        }
-        if (onCreateOptionsMenu = true) {
-            Intent about = new Intent(MainActivity,this, About.class);
-            startActivity(about);
-        }
     }
 }
