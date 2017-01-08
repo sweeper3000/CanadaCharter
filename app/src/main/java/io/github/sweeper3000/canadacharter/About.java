@@ -24,6 +24,7 @@ public class About extends AppCompatActivity {
             CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
             CustomTabsIntent github_intent = builder.build();
             builder.setToolbarColor(CUSTOM_TABS_TOOLBAR_COLOR);
+            builder.addDefaultShareMenuItem();
             github_intent.launchUrl(this, Uri.parse(GITHUB));
         }
 }
