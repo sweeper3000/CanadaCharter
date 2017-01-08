@@ -18,6 +18,7 @@
     <!-- AboutActivity Strings -->
     <string name="created_by_sweeper3000">Created by sweeper3000.</string>
     <string name="sweeper3000_on_github">\@sweeper3000 on GitHub.</string>
+    <string name="see_the_code">SEE THE CODE</string>
 
     <!-- MainActivity Strings -->
     <string name="canadian_charter_of_rights_and_freedoms">CANADIAN CHARTER OF RIGHTS AND FREEDOMS</string>
