@@ -1,0 +1,17 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="legal_rights"
+        android:enabled="true"
+        android:icon="@drawable/ic_account_balance_black_24dp"
+        android:shortcutShortLabel="@string/shortcut_legal_rights"
+        android:shortcutLongLabel="@string/shortcut_read_your_legal_rights">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="io.github.sweeper3000.canadacharter"
+            android:targetClass="io.github.sweeper3000.canadacharter.LegalRightsActivity"/>
+
+        <categories android:name="android.shortcut.legalrights" />
+
+    </shortcut>
+</shortcuts>

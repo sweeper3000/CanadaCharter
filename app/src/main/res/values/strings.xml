@@ -15,6 +15,10 @@
     <string name="general">GENERAL</string>
     <string name="application_of_charter">APPLICATION OF CHARTER</string>
 
+    <!-- App Shortcut Strings -->
+    <string name="shortcut_legal_rights">Legal Rights</string>
+    <string name="shortcut_read_your_legal_rights">Read Your Legal Rights</string>
+
     <!-- AboutActivity Strings -->
     <string name="created_by_sweeper3000">Created by sweeper3000.</string>
     <string name="sweeper3000_on_github">\@sweeper3000 on GitHub.</string>
