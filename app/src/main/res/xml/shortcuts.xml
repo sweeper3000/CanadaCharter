@@ -2,7 +2,7 @@
     <shortcut
         android:shortcutId="legal_rights"
         android:enabled="true"
-        android:icon="@drawable/ic_account_balance_black_24dp"
+        android:icon="@drawable/ic_shortcut_legal_rights"
         android:shortcutShortLabel="@string/shortcut_legal_rights"
         android:shortcutLongLabel="@string/shortcut_read_your_legal_rights">
 
