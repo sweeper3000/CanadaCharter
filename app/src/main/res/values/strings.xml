@@ -99,4 +99,38 @@
     <string name="equality_before_and_under_law_and_equal_protection_and_benefit_of_law">Equality before and under law and equal protection and benefit of law</string>
     <string name="every_person_is_equal_no_matter_what">\t 15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.</string>
     <string name="subsection_1_does_not_preclude_any_law_program_or_activity_that_aims_to_better_the_people_who_are_disadvantaged">\t (2) Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability. (84)</string>
+
+    <!-- OfficialLanguagesOfCanadaActivity Strings -->
+    <string name="official_languages_of_canada__no_caps">Official languages of Canada</string>
+    <string name="english_and_french_are_official_languages_and_have_equality_in_all_government">\t 16. (1) English and French are the official languages of Canada and have equality of status and equal rights and privileges as to their use in all institutions of the Parliament and government of Canada.</string>
+    <string name="official_languages_of_new_brunswick">Official languages of New Brunswick</string>
+    <string name="english_and_french_are_official_languages_of_new_brunswick_and_have_equality_in_all_government">\t (2) English and French are the official languages of New Brunswick and have equality of status and equal rights and privileges as to their use in all institutions of the legislature and government of New Brunswick.</string>
+    <string name="advancement_of_status_and_use">Advancement of status and use</string>
+    <string name="nothing_in_the_charter_limits_the_equality_of_english_or_french">\t (3) Nothing in this Charter limits the authority of Parliament or a legislature to advance the equality of status or use of English and French.</string>
+    <string name="english_and_french_linguistic_communities_in_new_brunswick">English and French linguistic communities in New Brunswick</string>
+    <string name="new_brunswick_has_right_to_preserve_language_communities">\t 16.1 (1) The English linguistic community and the French linguistic community in New Brunswick have equality of status and equal rights and privileges, including the right to distinct educational institutions and such distinct cultural institutions as are necessary for the preservation and promotion of those communities.</string>
+    <string name="role_of_the_legislature_and_government_of_new_brunswick">Role of the legislature and government of New Brunswick</string>
+    <string name="the_role_of_new_brunswick_to_preserve_subsection_one_is_affirmed">\t (2) The role of the legislature and government of New Brunswick to preserve and promote the status, rights and privileges referred to in subsection (1) is affirmed. (85)</string>
+    <string name="proceedings_of_parliament">Proceedings of Parliament</string>
+    <string name="everyone_has_right_to_use_english_or_french_in_parliament">\t 17. (1) Everyone has the right to use English or French in any debates and other proceedings of Parliament. (86)</string>
+    <string name="proceedings_of_new_brunswick_legislature">Proceedings of New Brunswick legislature</string>
+    <string name="everyone_has_right_to_use_english_or_french_in_new_brunswick_legislature">\t (2) Everyone has the right to use English or French in any debates and other proceedings of the legislature of New Brunswick. (87)</string>
+    <string name="parliamentary_statutes_and_records">Parliamentary statutes and records</string>
+    <string name="all_documents_of_parliament_shall_be_available_in_english_and_french">\t 18. (1) The statutes, records and journals of Parliament shall be printed and published in English and French and both language versions are equally authoritative. (88)</string>
+    <string name="new_brunswick_statutes_and_records">New Brunswick statutes and records</string>
+    <string name="all_documents_of_new_brunswick_shall_be_available_in_english_and_french">\t (2) The statutes, records and journals of the legislature of New Brunswick shall be printed and published in English and French and both language versions are equally authoritative. (89)</string>
+    <string name="proceedings_in_courts_established_by_parliament">Proceedings in courts established by Parliament</string>
+    <string name="either_english_or_french_may_be_used_in_a_court_created_by_parliament">\t 19. (1) Either English or French may be used by any person in, or in any pleading in or process issuing from, any court established by Parliament. (90)</string>
+    <string name="proceedings_in_new_brunswick_courts">Proceedings in New Brunswick courts</string>
+    <string name="either_english_or_french_may_be_used_in_a_court_created_by_new_brunswick">\t (2) Either English or French may be used by any person in, or in any pleading in or process issuing from, any court of New Brunswick. (91)</string>
+    <string name="communications_by_public_with_federal_institutions">Communications by public with federal institutions</string>
+    <string name="everyone_has_right_to_communicate_with_the_federal_government_in_english_or_french">\t 20. (1) Any member of the public in Canada has the right to communicate with, and to receive available services from, any head or central office of an institution of the Parliament or government of Canada in English or French, and has the same right with respect to any other office of any such institution where</string>
+    <string name="there_is_significant_demand_for_that_service">\t (a) there is a significant demand for communications with and services from that office in such language; or</string>
+    <string name="it_is_reasonable_for_the_service_to_offer_both_languages">\t (b) due to the nature of the office, it is reasonable that communications with and services from that office be available in both English and French.</string>
+    <string name="communications_by_public_with_new_brunswick_institutions">Communications by public with New Brunswick institutions</string>
+    <string name="everyone_has_right_to_communicate_with_the_new_brunswick_government_in_english_or_french">\t (2) Any member of the public in New Brunswick has the right to communicate with, and to receive available services from, any office of an institution of the legislature or government of New Brunswick in English or French.</string>
+    <string name="continuation_of_existing_constitutional_provisions">Continuation of existing constitutional provisions</string>
+    <string name="no_rights_are_stripped_from_subsection_16_to_20">\t 21. Nothing in sections 16 to 20 abrogates or derogates from any right, privilege or obligation with respect to the English and French languages, or either of them, that exists or is continued by virtue of any other provision of the Constitution of Canada. (92)</string>
+    <string name="rights_and_privileges_preserved">Rights and privileges preserved</string>
+    <string name="nothing_in_subsections_16_to_20_strips_rights_to_other_languages">\t 22. Nothing in sections 16 to 20 abrogates or derogates from any legal or customary right or privilege acquired or enjoyed either before or after the coming into force of this Charter with respect to any language that is not English or French.</string>
 </resources>
