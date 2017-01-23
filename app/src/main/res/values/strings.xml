@@ -133,4 +133,18 @@
     <string name="no_rights_are_stripped_from_subsection_16_to_20">\t 21. Nothing in sections 16 to 20 abrogates or derogates from any right, privilege or obligation with respect to the English and French languages, or either of them, that exists or is continued by virtue of any other provision of the Constitution of Canada. (92)</string>
     <string name="rights_and_privileges_preserved">Rights and privileges preserved</string>
     <string name="nothing_in_subsections_16_to_20_strips_rights_to_other_languages">\t 22. Nothing in sections 16 to 20 abrogates or derogates from any legal or customary right or privilege acquired or enjoyed either before or after the coming into force of this Charter with respect to any language that is not English or French.</string>
+
+    <!-- MinorityLanguageEducationalRightsActivity Strings -->
+    <string name="language_of_instruction">Language of instruction</string>
+    <string name="section_23_citizens_of_canada">\t 23. (1) Citizens of Canada</string>
+    <string name="whose_first_language_learned_and_still_understood_is_that_of_the_english_or_french_linguistic_minority_population_of_the_province_in_which_they_reside_or">\t (a) whose first language learned and still understood is that of the English or French linguistic minority population of the province in which they reside, or</string>
+    <string name="who_have_received_their_primary_education_in_english_or_french_in_canada">\t (b) who have received their primary school instruction in Canada in English or French and reside in a province where the language in which they received that instruction is the language of the English or French linguistic minority population of the province,</string>
+    <string name="have_the_right_to_receive_instruction_in_that_language_and_province">have the right to have their children receive primary and secondary school instruction in that language in that province. (93)</string>
+    <string name="continuity_of_language_instruction">Continuity of language instruction</string>
+    <string name="children_of_a_family_have_right_to_be_taught_in_same_language">\t (2) Citizens of Canada of whom any child has received or is receiving primary or secondary school instruction in English or French in Canada, have the right to have all their children receive primary and secondary school instruction in the same language.</string>
+    <string name="application_where_numbers_warrant">Application where numbers warrant</string>
+    <string name="the_rights_in_subsection_1_and_2">\t (3) The right of citizens of Canada under subsections (1) and (2) to have their children receive primary and secondary school instruction in the language of the English or French linguistic minority population of a province</string>
+    <string name="the_number_of_children_is_enough_for_public_funds_to_be_used">\t (a) applies wherever in the province the number of children of citizens who have such a right is sufficient to warrant the provision to them out of public funds of minority language instruction; and</string>
+    <string name="the_right_for_them_to_be_educated_in_a_minority_language_facility_out_of_public_funds">\t (b) includes, where the number of those children so warrants, the right to have them receive that instruction in minority language educational facilities provided out of public funds.</string>
+
 </resources>

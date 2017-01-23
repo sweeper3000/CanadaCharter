@@ -15,5 +15,104 @@
         android:paddingTop="@dimen/activity_vertical_margin"
         tools:context="io.github.sweeper3000.canadacharter.MinorityLanguageEducationalRightsActivity">
 
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginBottom="2dp"
+            android:text="@string/minority_language_educational_rights" />
+
+        <TextView
+            android:id="@+id/language_of_instruction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/language_of_instruction" />
+
+        <TextView
+            android:id="@+id/section_23_citizens_of_canada"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/language_of_instruction"
+            android:layout_marginBottom="2dp"
+            android:text="@string/section_23_citizens_of_canada" />
+
+        <TextView
+            android:id="@+id/whose_first_language_learned_and_still_understood_is_that_of_the_english_or_french_linguistic_minority_population_of_the_province_in_which_they_reside_or"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/section_23_citizens_of_canada"
+            android:layout_marginBottom="2dp"
+            android:text="@string/whose_first_language_learned_and_still_understood_is_that_of_the_english_or_french_linguistic_minority_population_of_the_province_in_which_they_reside_or" />
+
+        <TextView
+            android:id="@+id/who_have_received_their_primary_education_in_english_or_french_in_canada"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/whose_first_language_learned_and_still_understood_is_that_of_the_english_or_french_linguistic_minority_population_of_the_province_in_which_they_reside_or"
+            android:layout_marginBottom="2dp"
+            android:text="@string/who_have_received_their_primary_education_in_english_or_french_in_canada" />
+
+        <TextView
+            android:id="@+id/have_the_right_to_receive_instruction_in_that_language_and_province"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/who_have_received_their_primary_education_in_english_or_french_in_canada"
+            android:layout_marginBottom="2dp"
+            android:text="@string/have_the_right_to_receive_instruction_in_that_language_and_province" />
+
+        <TextView
+            android:id="@+id/continuity_of_language_instruction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/have_the_right_to_receive_instruction_in_that_language_and_province"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/continuity_of_language_instruction" />
+
+        <TextView
+            android:id="@+id/children_of_a_family_have_right_to_be_taught_in_same_language"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/continuity_of_language_instruction"
+            android:layout_marginBottom="2dp"
+            android:text="@string/children_of_a_family_have_right_to_be_taught_in_same_language" />
+
+        <TextView
+            android:id="@+id/application_where_numbers_warrant"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/children_of_a_family_have_right_to_be_taught_in_same_language"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/application_where_numbers_warrant" />
+
+        <TextView
+            android:id="@+id/the_rights_in_subsection_1_and_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/application_where_numbers_warrant"
+            android:layout_marginBottom="2dp"
+            android:text="@string/the_rights_in_subsection_1_and_2" />
+
+        <TextView
+            android:id="@+id/the_number_of_children_is_enough_for_public_funds_to_be_used"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/the_rights_in_subsection_1_and_2"
+            android:layout_marginBottom="2dp"
+            android:text="@string/the_number_of_children_is_enough_for_public_funds_to_be_used" />
+
+        <TextView
+            android:id="@+id/the_right_for_them_to_be_educated_in_a_minority_language_facility_out_of_public_funds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/the_number_of_children_is_enough_for_public_funds_to_be_used"
+            android:layout_marginBottom="2dp"
+            android:text="@string/the_right_for_them_to_be_educated_in_a_minority_language_facility_out_of_public_funds" />
+
     </RelativeLayout>
 </ScrollView>
