@@ -147,4 +147,10 @@
     <string name="the_number_of_children_is_enough_for_public_funds_to_be_used">\t (a) applies wherever in the province the number of children of citizens who have such a right is sufficient to warrant the provision to them out of public funds of minority language instruction; and</string>
     <string name="the_right_for_them_to_be_educated_in_a_minority_language_facility_out_of_public_funds">\t (b) includes, where the number of those children so warrants, the right to have them receive that instruction in minority language educational facilities provided out of public funds.</string>
 
+    <!-- EnforcementActivity Strings -->
+    <string name="enforcement_of_guaranteed_rights_and_freedoms">Enforcement of guaranteed rights and freedoms</string>
+    <string name="any_infringement_can_be_challenged">\t 24. (1) Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.</string>
+    <string name="exclusion_of_evidence_bringing_administration_of_justice_into_disrepute">Exclusion of evidence bringing administration of justice into disrepute</string>
+    <string name="evidence_that_was_obtained_in_violation_of_charter_is_not_admissible">\t (2) Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.</string>
+
 </resources>
