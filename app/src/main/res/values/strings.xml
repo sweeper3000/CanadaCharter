@@ -153,4 +153,21 @@
     <string name="exclusion_of_evidence_bringing_administration_of_justice_into_disrepute">Exclusion of evidence bringing administration of justice into disrepute</string>
     <string name="evidence_that_was_obtained_in_violation_of_charter_is_not_admissible">\t (2) Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.</string>
 
+    <!-- GeneralActivity Strings -->
+    <string name="aboriginal_rights_and_freedoms_not_affected_by_charter">Aboriginal rights and freedoms not affected by Charter</string>
+    <string name="the_charter_does_not_void_treaties_or_agreements_with_first_nations_including">\t 25. The guarantee in this Charter of certain rights and freedoms shall not be construed so as to abrogate or derogate from any aboriginal, treaty or other rights or freedoms that pertain to the aboriginal peoples of Canada including</string>
+    <string name="anything_in_the_royal_proclamation_of_1763">\t (a) any rights or freedoms that have been recognized by the Royal Proclamation of October 7, 1763; and</string>
+    <string name="any_rights_gained_through_land_agreements">\t (b) any rights or freedoms that now exist by way of land claims agreements or may be so acquired. (94)</string>
+    <string name="other_rights_and_freedoms_not_affected_by_charter">Other rights and freedoms not affected by Charter</string>
+    <string name="other_rights_not_mentioned_in_charter_still_apply">\t 26. The guarantee in this Charter of certain rights and freedoms shall not be construed as denying the existence of any other rights or freedoms that exist in Canada.</string>
+    <string name="multicultural_heritage">Multicultural heritage</string>
+    <string name="the_charter_must_be_interpreted_to_preserve_multiculturalism">\t 27. This Charter shall be interpreted in a manner consistent with the preservation and enhancement of the multicultural heritage of Canadians.</string>
+    <string name="rights_guaranteed_equally_to_both_sexes">Rights guaranteed equally to both sexes</string>
+    <string name="males_and_females_have_equal_rights">\t 28. Notwithstanding anything in this Charter, the rights and freedoms referred to in it are guaranteed equally to male and female persons.</string>
+    <string name="rights_respecting_certain_schools_preserved">Rights respecting certain schools preserved</string>
+    <string name="rights_of_schools_preserved">\t 29. Nothing in this Charter abrogates or derogates from any rights or privileges guaranteed by or under the Constitution of Canada in respect of denominational, separate or dissentient schools. (95)</string>
+    <string name="application_to_territories_and_territorial_authorities">Application to territories and territorial authorities</string>
+    <string name="yukon_and_northwest_territories_must_be_mentioned">\t 30. A reference in this Charter to a province or to the legislative assembly or legislature of a province shall be deemed to include a reference to the Yukon Territory and the Northwest Territories, or to the appropriate legislative authority thereof, as the case may be.</string>
+    <string name="legislative_powers_not_extended">Legislative powers not extended</string>
+    <string name="nothing_in_this_charter_extends_the_legislative_powers_of_any_body_or_authority">\t 31. Nothing in this Charter extends the legislative powers of any body or authority.</string>
 </resources>
