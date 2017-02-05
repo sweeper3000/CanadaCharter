@@ -34,11 +34,19 @@
         android:layout_marginBottom="5dp"
         android:text="@string/sweeper3000_on_github" />
 
+    <TextView
+        android:id="@+id/original_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sweeper3000_on_github"
+        android:layout_marginBottom="2dp"
+        android:text="@string/original_text" />
+
     <Button
         android:id="@+id/github_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/sweeper3000_on_github"
+        android:layout_below="@id/original_text"
         android:layout_marginBottom="5dp"
         android:hint="@string/see_the_code"
         android:onClick="toGitHub" />
