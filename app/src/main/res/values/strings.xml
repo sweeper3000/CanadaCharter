@@ -1,3 +1,191 @@
 <resources>
     <string name="app_name">Canada Charter</string>
+    <string name="app_about">ABOUT</string>
+
+    <!-- Titles -->
+    <string name="guarantee_of_rights_and_freedoms">GUARANTEE OF RIGHTS AND FREEDOMS</string>
+    <string name="fundamental_freedoms">FUNDAMENTAL FREEDOMS</string>
+    <string name="democratic_rights">DEMOCRATIC RIGHTS</string>
+    <string name="mobility_rights">MOBILITY RIGHTS</string>
+    <string name="legal_rights">LEGAL RIGHTS</string>
+    <string name="equality_rights">EQUALITY RIGHTS</string>
+    <string name="official_languages_of_canada">OFFICIAL LANGUAGES OF CANADA</string>
+    <string name="minority_language_educational_rights">MINORITY LANGUAGE EDUCATIONAL RIGHTS</string>
+    <string name="enforcement">ENFORCEMENT</string>
+    <string name="general">GENERAL</string>
+    <string name="application_of_charter">APPLICATION OF CHARTER</string>
+
+    <!-- App Shortcut Strings -->
+    <string name="shortcut_legal_rights">Legal Rights</string>
+    <string name="shortcut_read_your_legal_rights">Read Your Legal Rights</string>
+
+    <!-- AboutActivity Strings -->
+    <string name="created_by_sweeper3000">Created by sweeper3000.</string>
+    <string name="sweeper3000_on_github">\@sweeper3000 on GitHub.</string>
+    <string name="see_the_code">SEE THE CODE</string>
+    <string name="original_text">The original text of the Charter can be found on the Justice Laws\' website.</string>
+
+    <!-- MainActivity Strings -->
+    <string name="canadian_charter_of_rights_and_freedoms">CANADIAN CHARTER OF RIGHTS AND FREEDOMS</string>
+    <string name="canada_founded_on_rule_of_law">Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law:</string>
+    <string name="tap_the_buttons_to_go_to_a_section">Tap the buttons to go to a section.</string>
+
+    <!-- GuaranteeOfRightsAndFreedomsActivity Strings -->
+    <string name="rights_and_freedoms_in_canada">Rights and freedoms in Canada</string>
+    <string name="charter_guarantees_freedoms_but_with_limits">\t 1. The Canadian Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.</string>
+
+    <!-- FundamentalFreedomsActivity Strings -->
+    <string name="fundamental_freedoms_lower_case">Fundamental Freedoms</string>
+    <string name="everyone_has_the_following_fundamental_freedoms">\t 2. Everyone has the following fundamental freedoms:</string>
+    <string name="freedom_of_conscience_and_religion">\t (a) freedom of conscience and religion;</string>
+    <string name="freedom_of_speech_and_expression">\t (b) freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication;</string>
+    <string name="freedom_of_peaceful_assembly">\t (c) freedom of peaceful assembly; and</string>
+    <string name="freedom_of_association">\t (d) freedom of association.</string>
+
+    <!-- DemocraticRightsActivity Strings -->
+    <string name="democratic_rights_of_citizens">Democratic rights of citizens</string>
+    <string name="every_citizen_has_right_to_vote_and_hold_office">\t 3. Every citizen of Canada has the right to vote in an election of members of the House of Commons or of a legislative assembly and to be qualified for membership therein.</string>
+    <string name="maximum_duration_of_legislative_bodies">Maximum duration of legislative bodies</string>
+    <string name="bodies_limited_to_5_years">\t 4. (1) No House of Commons and no legislative assembly shall continue for longer than five years from the date fixed for the return of the writs at a general election of its members. (81)</string>
+    <string name="continuation_in_special_circumstances">Continuation in special circumstances</string>
+    <string name="bodies_can_be_continued_longer_in_times_of_war">\t (2) In time of real or apprehended war, invasion or insurrection, a House of Commons may be continued by Parliament and a legislative assembly may be continued by the legislature beyond five years if such continuation is not opposed by the votes of more than one-third of the members of the House of Commons or the legislative assembly, as the case may be. (82)</string>
+    <string name="annual_sitting_of_legislative_bodies">Annual sitting of legislative bodies</string>
+    <string name="there_shall_be_sitting_of_parliament_and_bodies_once_every_twelve_months">\t 5. There shall be a sitting of Parliament and of each legislature at least once every twelve months. (83)</string>
+
+    <!-- MobilityRightsActivity Strings -->
+    <string name="mobility_of_citizens">Mobility of citizens</string>
+    <string name="every_citizen_has_right_to_enter_remain_and_leave_canada">\t 6. (1) Every citizen of Canada has the right to enter, remain in and leave Canada.</string>
+    <string name="rights_to_move_and_gain_livelihood">Rights to move and gain livelihood</string>
+    <string name="every_citizen_and_permanent_resident_has_right">\t (2) Every citizen of Canada and every person who has the status of a permanent resident of Canada has the right</string>
+    <string name="to_move_and_take_up_residence_in_any_province">\t (a) to move to and take up residence in any province; and</string>
+    <string name="to_pursue_a_livelihood_in_any_province">\t (b) to pursue the gaining of a livelihood in any province.</string>
+    <string name="limitation">Limitation</string>
+    <string name="the_rights_specified_in_subsection_2_are_subject_to">\t (3) The rights specified in subsection (2) are subject to</string>
+    <string name="any_laws_of_general_application_in_force_other_than_those_that_discriminate_on_basis_of_province_of_present_or_future_residence">\t (a) any laws or practices of general application in force in a province other than those that discriminate among persons primarily on the basis of province of present or previous residence; and</string>
+    <string name="any_laws_providing_social_programs_that_require_residency">\t (b) any laws providing for reasonable residency requirements as a qualification for the receipt of publicly provided social services.</string>
+    <string name="affirmative_action_programs">Affirmative action programs</string>
+    <string name="subsections_2_and_3_dont_preclude_any_law_program_or_activity_that_aims_to_better_the_people_in_province_who_are_disadvantaged">\t (4) Subsections (2) and (3) do not preclude any law, program or activity that has as its object the amelioration in a province of conditions of individuals in that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.</string>
+
+    <!-- LegalRightsActivity Strings -->
+    <string name="life_liberty_and_security_of_the_person">Life, liberty and security of person</string>
+    <string name="everyone_has_right_of_life_liberty_and_security_and_right_not_to_be_deprived_of_it_except_through_fundamental_justice">\t 7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.</string>
+    <string name="search_or_seizure">Search or seizure</string>
+    <string name="everyone_has_the_right_to_be_secure_against_unreasonable_search_or_seizure">\t 8. Everyone has the right to be secure against unreasonable search or seizure.</string>
+    <string name="detention_or_imprisonment">Detention or imprisonment</string>
+    <string name="everyone_has_the_right_not_to_be_arbitrarily_detained_or_imprisoned">\t 9. Everyone has the right not to be arbitrarily detained or imprisoned.</string>
+    <string name="arrest_or_detention">Arrest or detention</string>
+    <string name="everyone_has_the_right_on_arrest_or_detention">\t 10. Everyone has the right on arrest or detention</string>
+    <string name="to_be_informed_promptly_of_the_reasons_therefor">\t (a) to be informed promptly of the reasons therefor;</string>
+    <string name="to_retain_and_instruct_counsel_without_delay_and_to_be_informed_of_that_right">\t (b) to retain and instruct counsel without delay and to be informed of that right; and</string>
+    <string name="to_have_validity_of_detention_determined_and_released_if_detention_is_unlawful">\t (c) to have the validity of the detention determined by way of habeas corpus and to be released if the detention is not lawful.</string>
+    <string name="proceedings_in_criminal_and_penal_matters">Proceedings in criminal and penal matters</string>
+    <string name="any_person_charged_with_an_offence_has_the_right">\t 11. Any person charged with an offence has the right</string>
+    <string name="to_be_informed_without_unreasonable_delay_of_the_specific_offence">\t (a) to be informed without unreasonable delay of the specific offence;</string>
+    <string name="to_be_tried_within_a_reasonable_time">\t (b) to be tried within a reasonable time;</string>
+    <string name="not_to_be_compelled_to_be_a_witness_in_proceedings_against_that_person_in_respect_of_the_offence">\t (c) not to be compelled to be a witness in proceedings against that person in respect of the offence;</string>
+    <string name="to_be_presumed_innocent_until_proven_guilty">\t (d) to be presumed innocent until proven guilty according to law in a fair and public hearing by an independent and impartial tribunal;</string>
+    <string name="not_to_be_denied_reasonable_bail_without_just_cause">\t (e) not to be denied reasonable bail without just cause;</string>
+    <string name="to_have_trial_by_jury_unless_military_tribunal">\t (f) except in the case of an offence under military law tried before a military tribunal, to the benefit of trial by jury where the maximum punishment for the offence is imprisonment for five years or a more severe punishment;</string>
+    <string name="not_be_tried_if_offence_was_not_illegal_before_offense_was_committed">\t (g) not to be found guilty on account of any act or omission unless, at the time of the act or omission, it constituted an offence under Canadian or international law or was criminal according to the general principles of law recognized by the community of nations;</string>
+    <string name="if_acquitted_of_offense_to_not_be_tried_again_and_not_be_punished_more_than_once_for_one_offence">\t (h) if finally acquitted of the offence, not to be tried for it again and, if finally found guilty and punished for the offence, not to be tried or punished for it again; and</string>
+    <string name="if_found_guilty_and_offence_varied_over_time_to_be_benefit_of_the_lesser_punishment">\t (i) if found guilty of the offence and if the punishment for the offence has been varied between the time of commission and the time of sentencing, to the benefit of the lesser punishment.</string>
+    <string name="treatment_or_punishment">Treatment or punishment</string>
+    <string name="no_cruel_or_unusual_punishment">\t 12. Everyone has the right not to be subjected to any cruel and unusual treatment or punishment.</string>
+    <string name="self_crimination">Self-crimination</string>
+    <string name="witnesses_have_right_not_to_incriminate_themselves">\t 13. A witness who testifies in any proceedings has the right not to have any incriminating evidence so given used to incriminate that witness in any other proceedings, except in a prosecution for perjury or for the giving of contradictory evidence.</string>
+    <string name="interpreter">Interpreter</string>
+    <string name="right_to_interpreter">\t 14. A party or witness in any proceedings who does not understand or speak the language in which the proceedings are conducted or who is deaf has the right to the assistance of an interpreter.</string>
+
+    <!-- EqualityRightsActivity Strings -->
+    <string name="equality_before_and_under_law_and_equal_protection_and_benefit_of_law">Equality before and under law and equal protection and benefit of law</string>
+    <string name="every_person_is_equal_no_matter_what">\t 15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.</string>
+    <string name="subsection_1_does_not_preclude_any_law_program_or_activity_that_aims_to_better_the_people_who_are_disadvantaged">\t (2) Subsection (1) does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability. (84)</string>
+
+    <!-- OfficialLanguagesOfCanadaActivity Strings -->
+    <string name="official_languages_of_canada__no_caps">Official languages of Canada</string>
+    <string name="english_and_french_are_official_languages_and_have_equality_in_all_government">\t 16. (1) English and French are the official languages of Canada and have equality of status and equal rights and privileges as to their use in all institutions of the Parliament and government of Canada.</string>
+    <string name="official_languages_of_new_brunswick">Official languages of New Brunswick</string>
+    <string name="english_and_french_are_official_languages_of_new_brunswick_and_have_equality_in_all_government">\t (2) English and French are the official languages of New Brunswick and have equality of status and equal rights and privileges as to their use in all institutions of the legislature and government of New Brunswick.</string>
+    <string name="advancement_of_status_and_use">Advancement of status and use</string>
+    <string name="nothing_in_the_charter_limits_the_equality_of_english_or_french">\t (3) Nothing in this Charter limits the authority of Parliament or a legislature to advance the equality of status or use of English and French.</string>
+    <string name="english_and_french_linguistic_communities_in_new_brunswick">English and French linguistic communities in New Brunswick</string>
+    <string name="new_brunswick_has_right_to_preserve_language_communities">\t 16.1 (1) The English linguistic community and the French linguistic community in New Brunswick have equality of status and equal rights and privileges, including the right to distinct educational institutions and such distinct cultural institutions as are necessary for the preservation and promotion of those communities.</string>
+    <string name="role_of_the_legislature_and_government_of_new_brunswick">Role of the legislature and government of New Brunswick</string>
+    <string name="the_role_of_new_brunswick_to_preserve_subsection_one_is_affirmed">\t (2) The role of the legislature and government of New Brunswick to preserve and promote the status, rights and privileges referred to in subsection (1) is affirmed. (85)</string>
+    <string name="proceedings_of_parliament">Proceedings of Parliament</string>
+    <string name="everyone_has_right_to_use_english_or_french_in_parliament">\t 17. (1) Everyone has the right to use English or French in any debates and other proceedings of Parliament. (86)</string>
+    <string name="proceedings_of_new_brunswick_legislature">Proceedings of New Brunswick legislature</string>
+    <string name="everyone_has_right_to_use_english_or_french_in_new_brunswick_legislature">\t (2) Everyone has the right to use English or French in any debates and other proceedings of the legislature of New Brunswick. (87)</string>
+    <string name="parliamentary_statutes_and_records">Parliamentary statutes and records</string>
+    <string name="all_documents_of_parliament_shall_be_available_in_english_and_french">\t 18. (1) The statutes, records and journals of Parliament shall be printed and published in English and French and both language versions are equally authoritative. (88)</string>
+    <string name="new_brunswick_statutes_and_records">New Brunswick statutes and records</string>
+    <string name="all_documents_of_new_brunswick_shall_be_available_in_english_and_french">\t (2) The statutes, records and journals of the legislature of New Brunswick shall be printed and published in English and French and both language versions are equally authoritative. (89)</string>
+    <string name="proceedings_in_courts_established_by_parliament">Proceedings in courts established by Parliament</string>
+    <string name="either_english_or_french_may_be_used_in_a_court_created_by_parliament">\t 19. (1) Either English or French may be used by any person in, or in any pleading in or process issuing from, any court established by Parliament. (90)</string>
+    <string name="proceedings_in_new_brunswick_courts">Proceedings in New Brunswick courts</string>
+    <string name="either_english_or_french_may_be_used_in_a_court_created_by_new_brunswick">\t (2) Either English or French may be used by any person in, or in any pleading in or process issuing from, any court of New Brunswick. (91)</string>
+    <string name="communications_by_public_with_federal_institutions">Communications by public with federal institutions</string>
+    <string name="everyone_has_right_to_communicate_with_the_federal_government_in_english_or_french">\t 20. (1) Any member of the public in Canada has the right to communicate with, and to receive available services from, any head or central office of an institution of the Parliament or government of Canada in English or French, and has the same right with respect to any other office of any such institution where</string>
+    <string name="there_is_significant_demand_for_that_service">\t (a) there is a significant demand for communications with and services from that office in such language; or</string>
+    <string name="it_is_reasonable_for_the_service_to_offer_both_languages">\t (b) due to the nature of the office, it is reasonable that communications with and services from that office be available in both English and French.</string>
+    <string name="communications_by_public_with_new_brunswick_institutions">Communications by public with New Brunswick institutions</string>
+    <string name="everyone_has_right_to_communicate_with_the_new_brunswick_government_in_english_or_french">\t (2) Any member of the public in New Brunswick has the right to communicate with, and to receive available services from, any office of an institution of the legislature or government of New Brunswick in English or French.</string>
+    <string name="continuation_of_existing_constitutional_provisions">Continuation of existing constitutional provisions</string>
+    <string name="no_rights_are_stripped_from_subsection_16_to_20">\t 21. Nothing in sections 16 to 20 abrogates or derogates from any right, privilege or obligation with respect to the English and French languages, or either of them, that exists or is continued by virtue of any other provision of the Constitution of Canada. (92)</string>
+    <string name="rights_and_privileges_preserved">Rights and privileges preserved</string>
+    <string name="nothing_in_subsections_16_to_20_strips_rights_to_other_languages">\t 22. Nothing in sections 16 to 20 abrogates or derogates from any legal or customary right or privilege acquired or enjoyed either before or after the coming into force of this Charter with respect to any language that is not English or French.</string>
+
+    <!-- MinorityLanguageEducationalRightsActivity Strings -->
+    <string name="language_of_instruction">Language of instruction</string>
+    <string name="section_23_citizens_of_canada">\t 23. (1) Citizens of Canada</string>
+    <string name="whose_first_language_learned_and_still_understood_is_that_of_the_english_or_french_linguistic_minority_population_of_the_province_in_which_they_reside_or">\t (a) whose first language learned and still understood is that of the English or French linguistic minority population of the province in which they reside, or</string>
+    <string name="who_have_received_their_primary_education_in_english_or_french_in_canada">\t (b) who have received their primary school instruction in Canada in English or French and reside in a province where the language in which they received that instruction is the language of the English or French linguistic minority population of the province,</string>
+    <string name="have_the_right_to_receive_instruction_in_that_language_and_province">have the right to have their children receive primary and secondary school instruction in that language in that province. (93)</string>
+    <string name="continuity_of_language_instruction">Continuity of language instruction</string>
+    <string name="children_of_a_family_have_right_to_be_taught_in_same_language">\t (2) Citizens of Canada of whom any child has received or is receiving primary or secondary school instruction in English or French in Canada, have the right to have all their children receive primary and secondary school instruction in the same language.</string>
+    <string name="application_where_numbers_warrant">Application where numbers warrant</string>
+    <string name="the_rights_in_subsection_1_and_2">\t (3) The right of citizens of Canada under subsections (1) and (2) to have their children receive primary and secondary school instruction in the language of the English or French linguistic minority population of a province</string>
+    <string name="the_number_of_children_is_enough_for_public_funds_to_be_used">\t (a) applies wherever in the province the number of children of citizens who have such a right is sufficient to warrant the provision to them out of public funds of minority language instruction; and</string>
+    <string name="the_right_for_them_to_be_educated_in_a_minority_language_facility_out_of_public_funds">\t (b) includes, where the number of those children so warrants, the right to have them receive that instruction in minority language educational facilities provided out of public funds.</string>
+
+    <!-- EnforcementActivity Strings -->
+    <string name="enforcement_of_guaranteed_rights_and_freedoms">Enforcement of guaranteed rights and freedoms</string>
+    <string name="any_infringement_can_be_challenged">\t 24. (1) Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.</string>
+    <string name="exclusion_of_evidence_bringing_administration_of_justice_into_disrepute">Exclusion of evidence bringing administration of justice into disrepute</string>
+    <string name="evidence_that_was_obtained_in_violation_of_charter_is_not_admissible">\t (2) Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.</string>
+
+    <!-- GeneralActivity Strings -->
+    <string name="aboriginal_rights_and_freedoms_not_affected_by_charter">Aboriginal rights and freedoms not affected by Charter</string>
+    <string name="the_charter_does_not_void_treaties_or_agreements_with_first_nations_including">\t 25. The guarantee in this Charter of certain rights and freedoms shall not be construed so as to abrogate or derogate from any aboriginal, treaty or other rights or freedoms that pertain to the aboriginal peoples of Canada including</string>
+    <string name="anything_in_the_royal_proclamation_of_1763">\t (a) any rights or freedoms that have been recognized by the Royal Proclamation of October 7, 1763; and</string>
+    <string name="any_rights_gained_through_land_agreements">\t (b) any rights or freedoms that now exist by way of land claims agreements or may be so acquired. (94)</string>
+    <string name="other_rights_and_freedoms_not_affected_by_charter">Other rights and freedoms not affected by Charter</string>
+    <string name="other_rights_not_mentioned_in_charter_still_apply">\t 26. The guarantee in this Charter of certain rights and freedoms shall not be construed as denying the existence of any other rights or freedoms that exist in Canada.</string>
+    <string name="multicultural_heritage">Multicultural heritage</string>
+    <string name="the_charter_must_be_interpreted_to_preserve_multiculturalism">\t 27. This Charter shall be interpreted in a manner consistent with the preservation and enhancement of the multicultural heritage of Canadians.</string>
+    <string name="rights_guaranteed_equally_to_both_sexes">Rights guaranteed equally to both sexes</string>
+    <string name="males_and_females_have_equal_rights">\t 28. Notwithstanding anything in this Charter, the rights and freedoms referred to in it are guaranteed equally to male and female persons.</string>
+    <string name="rights_respecting_certain_schools_preserved">Rights respecting certain schools preserved</string>
+    <string name="rights_of_schools_preserved">\t 29. Nothing in this Charter abrogates or derogates from any rights or privileges guaranteed by or under the Constitution of Canada in respect of denominational, separate or dissentient schools. (95)</string>
+    <string name="application_to_territories_and_territorial_authorities">Application to territories and territorial authorities</string>
+    <string name="yukon_and_northwest_territories_must_be_mentioned">\t 30. A reference in this Charter to a province or to the legislative assembly or legislature of a province shall be deemed to include a reference to the Yukon Territory and the Northwest Territories, or to the appropriate legislative authority thereof, as the case may be.</string>
+    <string name="legislative_powers_not_extended">Legislative powers not extended</string>
+    <string name="nothing_in_this_charter_extends_the_legislative_powers_of_any_body_or_authority">\t 31. Nothing in this Charter extends the legislative powers of any body or authority.</string>
+
+    <!-- ApplicationOfCharterActivity Strings -->
+    <string name="application_of_charter__small">Application of Charter</string>
+    <string name="this_charter_applies">\t 32. (1) This Charter applies</string>
+    <string name="to_the_entire_canadian_government_system">\t (a) to the Parliament and government of Canada in respect of all matters within the authority of Parliament including all matters relating to the Yukon Territory and Northwest Territories; and</string>
+    <string name="to_the_provincial_governments">\t (b) to the legislature and government of each province in respect of all matters within the authority of the legislature of each province.</string>
+    <string name="exception">Exception</string>
+    <string name="section_15_shall_not_have_effect_until_three_years_after_this_section_comes_into_power">\t (2) Notwithstanding subsection (1), section 15 shall not have effect until three years after this section comes into force.</string>
+    <string name="exception_where_express_declaration">Exception where express declaration</string>
+    <string name="governments_can_override_section_2_or_7_to_15">\t 33. (1) Parliament or the legislature of a province may expressly declare in an Act of Parliament or of the legislature, as the case may be, that the Act or a provision thereof shall operate notwithstanding a provision included in section 2 or sections 7 to 15 of this Charter.</string>
+    <string name="operation_of_exception">Operation of exception</string>
+    <string name="an_act_or_a_provision_of_an_act_in_respect_of_which_a_declaration_made_under_this_section_is_in_effect_shall_have_such_operation_as_it_would_have_but_for_the_provision_of_this_charter_referred_to_in_the_declaration">\t (2) An Act or a provision of an Act in respect of which a declaration made under this section is in effect shall have such operation as it would have but for the provision of this Charter referred to in the declaration.</string>
+    <string name="five_year_limitation">Five year limitation</string>
+    <string name="the_exception_has_a_five_year_limit">\t (3) A declaration made under subsection (1) shall cease to have effect five years after it comes into force or on such earlier date as may be specified in the declaration.</string>
+    <string name="re_enactment">Re-enactment</string>
+    <string name="an_exception_can_be_re_enacted">\t (4) Parliament or the legislature of a province may re-enact a declaration made under subsection (1).</string>
+    <string name="subsection_5_applies_to_exception_rule_under_subsection_4">\t (5) Subsection (3) applies in respect of a re-enactment made under subsection (4).</string>
 </resources>

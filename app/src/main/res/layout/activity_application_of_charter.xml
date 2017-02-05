@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_application_of_charter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="io.github.sweeper3000.canadacharter.ApplicationOfCharterActivity">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginBottom="2dp"
+            android:text="@string/application_of_charter" />
+
+        <TextView
+            android:id="@+id/application_of_charter__small"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/application_of_charter__small" />
+
+        <TextView
+            android:id="@+id/this_charter_applies"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/application_of_charter__small"
+            android:layout_marginBottom="2dp"
+            android:text="@string/this_charter_applies" />
+
+        <TextView
+            android:id="@+id/to_the_entire_canadian_government_system"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/this_charter_applies"
+            android:layout_marginBottom="2dp"
+            android:text="@string/to_the_entire_canadian_government_system" />
+
+        <TextView
+            android:id="@+id/to_the_provincial_governments"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/to_the_entire_canadian_government_system"
+            android:layout_marginBottom="2dp"
+            android:text="@string/to_the_provincial_governments" />
+
+        <TextView
+            android:id="@+id/exception"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/to_the_provincial_governments"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/exception" />
+
+        <TextView
+            android:id="@+id/section_15_shall_not_have_effect_until_three_years_after_this_section_comes_into_power"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/exception"
+            android:layout_marginBottom="2dp"
+            android:text="@string/section_15_shall_not_have_effect_until_three_years_after_this_section_comes_into_power" />
+
+        <TextView
+            android:id="@+id/exception_where_express_declaration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/section_15_shall_not_have_effect_until_three_years_after_this_section_comes_into_power"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/exception_where_express_declaration" />
+
+        <TextView
+            android:id="@+id/governments_can_override_section_2_or_7_to_15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/exception_where_express_declaration"
+            android:layout_marginBottom="2dp"
+            android:text="@string/governments_can_override_section_2_or_7_to_15" />
+
+        <TextView
+            android:id="@+id/operation_of_exception"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/governments_can_override_section_2_or_7_to_15"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/operation_of_exception" />
+
+        <TextView
+            android:id="@+id/an_act_or_a_provision_of_an_act_in_respect_of_which_a_declaration_made_under_this_section_is_in_effect_shall_have_such_operation_as_it_would_have_but_for_the_provision_of_this_charter_referred_to_in_the_declaration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/operation_of_exception"
+            android:layout_marginBottom="2dp"
+            android:text="@string/an_act_or_a_provision_of_an_act_in_respect_of_which_a_declaration_made_under_this_section_is_in_effect_shall_have_such_operation_as_it_would_have_but_for_the_provision_of_this_charter_referred_to_in_the_declaration" />
+
+        <TextView
+            android:id="@+id/five_year_limitation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/an_act_or_a_provision_of_an_act_in_respect_of_which_a_declaration_made_under_this_section_is_in_effect_shall_have_such_operation_as_it_would_have_but_for_the_provision_of_this_charter_referred_to_in_the_declaration"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/five_year_limitation" />
+
+        <TextView
+            android:id="@+id/the_exception_has_a_five_year_limit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/five_year_limitation"
+            android:layout_marginBottom="2dp"
+            android:text="@string/the_exception_has_a_five_year_limit" />
+
+        <TextView
+            android:id="@+id/re_enactment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/the_exception_has_a_five_year_limit"
+            android:layout_marginBottom="2dp"
+            android:text="@string/re_enactment" />
+
+        <TextView
+            android:id="@+id/an_exception_can_be_re_enacted"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/re_enactment"
+            android:layout_marginBottom="2dp"
+            android:text="@string/an_exception_can_be_re_enacted" />
+
+        <TextView
+            android:id="@+id/five_year_limitation_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/an_exception_can_be_re_enacted"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/five_year_limitation" />
+
+        <TextView
+            android:id="@+id/subsection_5_applies_to_exception_rule_under_subsection_4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/five_year_limitation_2"
+            android:layout_marginBottom="2dp"
+            android:text="@string/subsection_5_applies_to_exception_rule_under_subsection_4" />
+
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_legal_rights"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="io.github.sweeper3000.canadacharter.LegalRightsActivity">
+
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2dp"
+            android:gravity="center"
+            android:text="@string/legal_rights" />
+
+        <TextView
+            android:id="@+id/life_liberty_and_security_of_the_person"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/life_liberty_and_security_of_the_person" />
+
+        <TextView
+            android:id="@+id/everyone_has_right_of_life_liberty_and_security_and_right_not_to_be_deprived_of_it_except_through_fundamental_justice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/life_liberty_and_security_of_the_person"
+            android:layout_marginBottom="2dp"
+            android:text="@string/everyone_has_right_of_life_liberty_and_security_and_right_not_to_be_deprived_of_it_except_through_fundamental_justice" />
+
+        <TextView
+            android:id="@+id/search_or_seizure"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/everyone_has_right_of_life_liberty_and_security_and_right_not_to_be_deprived_of_it_except_through_fundamental_justice"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/search_or_seizure" />
+
+        <TextView
+            android:id="@+id/everyone_has_the_right_to_be_secure_against_unreasonable_search_or_seizure"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/search_or_seizure"
+            android:layout_marginBottom="2dp"
+            android:text="@string/everyone_has_the_right_to_be_secure_against_unreasonable_search_or_seizure" />
+
+        <TextView
+            android:id="@+id/detention_or_imprisonment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/everyone_has_the_right_to_be_secure_against_unreasonable_search_or_seizure"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/detention_or_imprisonment" />
+
+        <TextView
+            android:id="@+id/everyone_has_the_right_not_to_be_arbitrarily_detained_or_imprisoned"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/detention_or_imprisonment"
+            android:layout_marginBottom="2dp"
+            android:text="@string/everyone_has_the_right_not_to_be_arbitrarily_detained_or_imprisoned" />
+
+        <TextView
+            android:id="@+id/arrest_or_detention"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/everyone_has_the_right_not_to_be_arbitrarily_detained_or_imprisoned"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/arrest_or_detention" />
+
+        <TextView
+            android:id="@+id/everyone_has_the_right_on_arrest_or_detention"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/arrest_or_detention"
+            android:layout_marginBottom="2dp"
+            android:text="@string/everyone_has_the_right_on_arrest_or_detention" />
+
+        <TextView
+            android:id="@+id/to_be_informed_promptly_of_the_reasons_therefor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/everyone_has_the_right_on_arrest_or_detention"
+            android:layout_marginBottom="2dp"
+            android:text="@string/to_be_informed_promptly_of_the_reasons_therefor" />
+
+        <TextView
+            android:id="@+id/to_retain_and_instruct_counsel_without_delay_and_to_be_informed_of_that_right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/to_be_informed_promptly_of_the_reasons_therefor"
+            android:layout_marginBottom="2dp"
+            android:text="@string/to_retain_and_instruct_counsel_without_delay_and_to_be_informed_of_that_right" />
+
+        <TextView
+            android:id="@+id/to_have_validity_of_detention_determined_and_released_if_detention_is_unlawful"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/to_retain_and_instruct_counsel_without_delay_and_to_be_informed_of_that_right"
+            android:layout_marginBottom="2dp"
+            android:text="@string/to_have_validity_of_detention_determined_and_released_if_detention_is_unlawful" />
+
+        <TextView
+            android:id="@+id/proceedings_in_criminal_and_penal_matters"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/to_have_validity_of_detention_determined_and_released_if_detention_is_unlawful"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/proceedings_in_criminal_and_penal_matters" />
+
+        <TextView
+            android:id="@+id/any_person_charged_with_an_offence_has_the_right"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/proceedings_in_criminal_and_penal_matters"
+            android:layout_marginBottom="2dp"
+            android:text="@string/any_person_charged_with_an_offence_has_the_right" />
+
+        <TextView
+            android:id="@+id/to_be_informed_without_unreasonable_delay_of_the_specific_offence"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/any_person_charged_with_an_offence_has_the_right"
+            android:layout_marginBottom="2dp"
+            android:text="@string/to_be_informed_without_unreasonable_delay_of_the_specific_offence" />
+
+        <TextView
+            android:id="@+id/to_be_tried_within_a_reasonable_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/to_be_informed_without_unreasonable_delay_of_the_specific_offence"
+            android:layout_marginBottom="2dp"
+            android:text="@string/to_be_tried_within_a_reasonable_time" />
+
+        <TextView
+            android:id="@+id/not_to_be_compelled_to_be_a_witness_in_proceedings_against_that_person_in_respect_of_the_offence"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/to_be_tried_within_a_reasonable_time"
+            android:layout_marginBottom="2dp"
+            android:text="@string/not_to_be_compelled_to_be_a_witness_in_proceedings_against_that_person_in_respect_of_the_offence" />
+
+        <TextView
+            android:id="@+id/to_be_presumed_innocent_until_proven_guilty"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/not_to_be_compelled_to_be_a_witness_in_proceedings_against_that_person_in_respect_of_the_offence"
+            android:layout_marginBottom="2dp"
+            android:text="@string/to_be_presumed_innocent_until_proven_guilty" />
+
+        <TextView
+            android:id="@+id/not_to_be_denied_reasonable_bail_without_just_cause"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/to_be_presumed_innocent_until_proven_guilty"
+            android:layout_marginBottom="2dp"
+            android:text="@string/not_to_be_denied_reasonable_bail_without_just_cause" />
+
+        <TextView
+            android:id="@+id/to_have_trial_by_jury_unless_military_tribunal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/not_to_be_denied_reasonable_bail_without_just_cause"
+            android:layout_marginBottom="2dp"
+            android:text="@string/to_have_trial_by_jury_unless_military_tribunal" />
+
+        <TextView
+            android:id="@+id/not_be_tried_if_offence_was_not_illegal_before_offense_was_committed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/to_have_trial_by_jury_unless_military_tribunal"
+            android:layout_marginBottom="2dp"
+            android:text="@string/not_be_tried_if_offence_was_not_illegal_before_offense_was_committed" />
+
+        <TextView
+            android:id="@+id/if_acquitted_of_offense_to_not_be_tried_again_and_not_be_punished_more_than_once_for_one_offence"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/not_be_tried_if_offence_was_not_illegal_before_offense_was_committed"
+            android:layout_marginBottom="2dp"
+            android:text="@string/if_acquitted_of_offense_to_not_be_tried_again_and_not_be_punished_more_than_once_for_one_offence" />
+
+        <TextView
+            android:id="@+id/if_found_guilty_and_offence_varied_over_time_to_be_benefit_of_the_lesser_punishment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/if_acquitted_of_offense_to_not_be_tried_again_and_not_be_punished_more_than_once_for_one_offence"
+            android:layout_marginBottom="2dp"
+            android:text="@string/if_found_guilty_and_offence_varied_over_time_to_be_benefit_of_the_lesser_punishment" />
+
+        <TextView
+            android:id="@+id/treatment_or_punishment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/if_found_guilty_and_offence_varied_over_time_to_be_benefit_of_the_lesser_punishment"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/treatment_or_punishment" />
+
+        <TextView
+            android:id="@+id/no_cruel_or_unusual_punishment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/treatment_or_punishment"
+            android:layout_marginBottom="2dp"
+            android:text="@string/no_cruel_or_unusual_punishment" />
+
+        <TextView
+            android:id="@+id/self_crimination"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/no_cruel_or_unusual_punishment"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/self_crimination" />
+
+        <TextView
+            android:id="@+id/witnesses_have_right_not_to_incriminate_themselves"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/self_crimination"
+            android:layout_marginBottom="2dp"
+            android:text="@string/witnesses_have_right_not_to_incriminate_themselves" />
+
+        <TextView
+            android:id="@+id/interpreter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/witnesses_have_right_not_to_incriminate_themselves"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/interpreter" />
+
+        <TextView
+            android:id="@+id/right_to_interpreter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/interpreter"
+            android:layout_marginBottom="2dp"
+            android:text="@string/right_to_interpreter" />
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_general"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="io.github.sweeper3000.canadacharter.GeneralActivity">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginBottom="2dp"
+            android:text="@string/general" />
+
+        <TextView
+            android:id="@+id/aboriginal_rights_and_freedoms_not_affected_by_charter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:textSize="12sp"
+            android:layout_marginBottom="2dp"
+            android:text="@string/aboriginal_rights_and_freedoms_not_affected_by_charter" />
+
+        <TextView
+            android:id="@+id/the_charter_does_not_void_treaties_or_agreements_with_first_nations_including"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/aboriginal_rights_and_freedoms_not_affected_by_charter"
+            android:layout_marginBottom="2dp"
+            android:text="@string/the_charter_does_not_void_treaties_or_agreements_with_first_nations_including" />
+
+        <TextView
+            android:id="@+id/anything_in_the_royal_proclamation_of_1763"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/the_charter_does_not_void_treaties_or_agreements_with_first_nations_including"
+            android:layout_marginBottom="2dp"
+            android:text="@string/anything_in_the_royal_proclamation_of_1763" />
+
+        <TextView
+            android:id="@+id/any_rights_gained_through_land_agreements"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/anything_in_the_royal_proclamation_of_1763"
+            android:layout_marginBottom="2dp"
+            android:text="@string/any_rights_gained_through_land_agreements" />
+
+        <TextView
+            android:id="@+id/other_rights_and_freedoms_not_affected_by_charter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/any_rights_gained_through_land_agreements"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/other_rights_and_freedoms_not_affected_by_charter" />
+
+        <TextView
+            android:id="@+id/other_rights_not_mentioned_in_charter_still_apply"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/other_rights_and_freedoms_not_affected_by_charter"
+            android:layout_marginBottom="2dp"
+            android:text="@string/other_rights_not_mentioned_in_charter_still_apply" />
+
+        <TextView
+            android:id="@+id/multicultural_heritage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/other_rights_not_mentioned_in_charter_still_apply"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/multicultural_heritage" />
+
+        <TextView
+            android:id="@+id/the_charter_must_be_interpreted_to_preserve_multiculturalism"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/multicultural_heritage"
+            android:layout_marginBottom="2dp"
+            android:text="@string/the_charter_must_be_interpreted_to_preserve_multiculturalism" />
+
+        <TextView
+            android:id="@+id/rights_guaranteed_equally_to_both_sexes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/the_charter_must_be_interpreted_to_preserve_multiculturalism"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/rights_guaranteed_equally_to_both_sexes" />
+
+        <TextView
+            android:id="@+id/males_and_females_have_equal_rights"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rights_guaranteed_equally_to_both_sexes"
+            android:layout_marginBottom="2dp"
+            android:text="@string/males_and_females_have_equal_rights" />
+
+        <TextView
+            android:id="@+id/rights_respecting_certain_schools_preserved"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/males_and_females_have_equal_rights"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/rights_respecting_certain_schools_preserved" />
+
+        <TextView
+            android:id="@+id/rights_of_schools_preserved"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rights_respecting_certain_schools_preserved"
+            android:layout_marginBottom="2dp"
+            android:text="@string/rights_of_schools_preserved" />
+
+        <TextView
+            android:id="@+id/application_to_territories_and_territorial_authorities"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rights_of_schools_preserved"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/application_to_territories_and_territorial_authorities" />
+
+        <TextView
+            android:id="@+id/yukon_and_northwest_territories_must_be_mentioned"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/application_to_territories_and_territorial_authorities"
+            android:layout_marginBottom="2dp"
+            android:text="@string/yukon_and_northwest_territories_must_be_mentioned" />
+
+        <TextView
+            android:id="@+id/legislative_powers_not_extended"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/yukon_and_northwest_territories_must_be_mentioned"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/legislative_powers_not_extended" />
+
+        <TextView
+            android:id="@+id/nothing_in_this_charter_extends_the_legislative_powers_of_any_body_or_authority"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/legislative_powers_not_extended"
+            android:layout_marginBottom="2dp"
+            android:text="@string/nothing_in_this_charter_extends_the_legislative_powers_of_any_body_or_authority" />
+
+    </RelativeLayout>
+</ScrollView>

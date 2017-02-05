@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_about"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="io.github.sweeper3000.canadacharter.About">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:gravity="center"
+        android:text="@string/app_about" />
+
+    <TextView
+        android:id="@+id/created_by_sweeper3000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_marginBottom="5dp"
+        android:text="@string/created_by_sweeper3000" />
+
+    <TextView
+        android:id="@+id/sweeper3000_on_github"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/created_by_sweeper3000"
+        android:layout_marginBottom="5dp"
+        android:text="@string/sweeper3000_on_github" />
+
+    <TextView
+        android:id="@+id/original_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sweeper3000_on_github"
+        android:layout_marginBottom="2dp"
+        android:text="@string/original_text" />
+
+    <Button
+        android:id="@+id/github_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/original_text"
+        android:layout_marginBottom="5dp"
+        android:hint="@string/see_the_code"
+        android:onClick="toGitHub" />
+</RelativeLayout>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_official_languages_of_canada"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="io.github.sweeper3000.canadacharter.OfficialLanguagesOfCanadaActivity">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginBottom="2dp"
+            android:text="@string/official_languages_of_canada" />
+
+        <TextView
+            android:id="@+id/official_languages_of_canada__no_caps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/official_languages_of_canada__no_caps" />
+
+        <TextView
+            android:id="@+id/english_and_french_are_official_languages_and_have_equality_in_all_government"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/official_languages_of_canada__no_caps"
+            android:layout_marginBottom="2dp"
+            android:text="@string/english_and_french_are_official_languages_and_have_equality_in_all_government" />
+
+        <TextView
+            android:id="@+id/official_languages_of_new_brunswick"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/english_and_french_are_official_languages_and_have_equality_in_all_government"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/official_languages_of_new_brunswick" />
+
+        <TextView
+            android:id="@+id/english_and_french_are_official_languages_of_new_brunswick_and_have_equality_in_all_government"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/official_languages_of_new_brunswick"
+            android:layout_marginBottom="2dp"
+            android:text="@string/english_and_french_are_official_languages_of_new_brunswick_and_have_equality_in_all_government" />
+
+        <TextView
+            android:id="@+id/advancement_of_status_and_use"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/english_and_french_are_official_languages_of_new_brunswick_and_have_equality_in_all_government"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/advancement_of_status_and_use" />
+
+        <TextView
+            android:id="@+id/nothing_in_the_charter_limits_the_equality_of_english_or_french"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/advancement_of_status_and_use"
+            android:layout_marginBottom="2dp"
+            android:text="@string/nothing_in_the_charter_limits_the_equality_of_english_or_french" />
+
+        <TextView
+            android:id="@+id/english_and_french_linguistic_communities_in_new_brunswick"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/nothing_in_the_charter_limits_the_equality_of_english_or_french"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/english_and_french_linguistic_communities_in_new_brunswick" />
+
+        <TextView
+            android:id="@+id/new_brunswick_has_right_to_preserve_language_communities"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/english_and_french_linguistic_communities_in_new_brunswick"
+            android:layout_marginBottom="2dp"
+            android:text="@string/new_brunswick_has_right_to_preserve_language_communities" />
+
+        <TextView
+            android:id="@+id/role_of_the_legislature_and_government_of_new_brunswick"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/new_brunswick_has_right_to_preserve_language_communities"
+            android:layout_marginBottom="2dp"
+            android:text="@string/role_of_the_legislature_and_government_of_new_brunswick" />
+
+        <TextView
+            android:id="@+id/the_role_of_new_brunswick_to_preserve_subsection_one_is_affirmed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/role_of_the_legislature_and_government_of_new_brunswick"
+            android:layout_marginBottom="2dp"
+            android:text="@string/the_role_of_new_brunswick_to_preserve_subsection_one_is_affirmed" />
+
+        <TextView
+            android:id="@+id/proceedings_of_parliament"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/the_role_of_new_brunswick_to_preserve_subsection_one_is_affirmed"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/proceedings_of_parliament" />
+
+        <TextView
+            android:id="@+id/everyone_has_right_to_use_english_or_french_in_parliament"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/proceedings_of_parliament"
+            android:layout_marginBottom="2dp"
+            android:text="@string/everyone_has_right_to_use_english_or_french_in_parliament" />
+
+        <TextView
+            android:id="@+id/proceedings_of_new_brunswick_legislature"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/everyone_has_right_to_use_english_or_french_in_parliament"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/proceedings_of_new_brunswick_legislature" />
+
+        <TextView
+            android:id="@+id/everyone_has_right_to_use_english_or_french_in_new_brunswick_legislature"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/proceedings_of_new_brunswick_legislature"
+            android:layout_marginBottom="2dp"
+            android:text="@string/everyone_has_right_to_use_english_or_french_in_new_brunswick_legislature" />
+
+        <TextView
+            android:id="@+id/parliamentary_statutes_and_records"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/everyone_has_right_to_use_english_or_french_in_new_brunswick_legislature"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/parliamentary_statutes_and_records" />
+
+        <TextView
+            android:id="@+id/all_documents_shall_be_available_in_english_and_french"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/parliamentary_statutes_and_records"
+            android:layout_marginBottom="2dp"
+            android:text="@string/all_documents_of_parliament_shall_be_available_in_english_and_french" />
+
+        <TextView
+            android:id="@+id/new_brunswick_statutes_and_records"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/all_documents_shall_be_available_in_english_and_french"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/new_brunswick_statutes_and_records" />
+
+        <TextView
+            android:id="@+id/all_documents_of_new_brunswick_shall_be_available_in_english_and_french"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/new_brunswick_statutes_and_records"
+            android:layout_marginBottom="2dp"
+            android:text="@string/all_documents_of_new_brunswick_shall_be_available_in_english_and_french" />
+
+        <TextView
+            android:id="@+id/proceedings_in_courts_established_by_parliament"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/all_documents_of_new_brunswick_shall_be_available_in_english_and_french"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/proceedings_in_courts_established_by_parliament" />
+
+        <TextView
+            android:id="@+id/either_english_or_french_may_be_used_in_a_court_created_by_parliament"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/proceedings_in_courts_established_by_parliament"
+            android:layout_marginBottom="2dp"
+            android:text="@string/either_english_or_french_may_be_used_in_a_court_created_by_parliament" />
+
+        <TextView
+            android:id="@+id/proceedings_in_new_brunswick_courts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/either_english_or_french_may_be_used_in_a_court_created_by_parliament"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/proceedings_in_new_brunswick_courts" />
+
+        <TextView
+            android:id="@+id/either_english_or_french_may_be_used_in_a_court_created_by_new_brunswick"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/proceedings_in_new_brunswick_courts"
+            android:layout_marginBottom="2dp"
+            android:text="@string/either_english_or_french_may_be_used_in_a_court_created_by_new_brunswick" />
+
+        <TextView
+            android:id="@+id/communications_by_public_with_federal_institutions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/either_english_or_french_may_be_used_in_a_court_created_by_new_brunswick"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/communications_by_public_with_federal_institutions" />
+
+        <TextView
+            android:id="@+id/everyone_has_right_to_communicate_with_the_federal_government_in_english_or_french"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/communications_by_public_with_federal_institutions"
+            android:layout_marginBottom="2dp"
+            android:text="@string/everyone_has_right_to_communicate_with_the_federal_government_in_english_or_french" />
+
+        <TextView
+            android:id="@+id/there_is_significant_demand_for_that_service"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/everyone_has_right_to_communicate_with_the_federal_government_in_english_or_french"
+            android:layout_marginBottom="2dp"
+            android:text="@string/there_is_significant_demand_for_that_service" />
+
+        <TextView
+            android:id="@+id/it_is_reasonable_for_the_service_to_offer_both_languages"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/there_is_significant_demand_for_that_service"
+            android:layout_marginBottom="2dp"
+            android:text="@string/it_is_reasonable_for_the_service_to_offer_both_languages" />
+
+        <TextView
+            android:id="@+id/communications_by_public_with_new_brunswick_institutions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/it_is_reasonable_for_the_service_to_offer_both_languages"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/communications_by_public_with_new_brunswick_institutions" />
+
+        <TextView
+            android:id="@+id/everyone_has_right_to_communicate_with_the_new_brunswick_government_in_english_or_french"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/communications_by_public_with_new_brunswick_institutions"
+            android:layout_marginBottom="2dp"
+            android:text="@string/everyone_has_right_to_communicate_with_the_new_brunswick_government_in_english_or_french" />
+
+        <TextView
+            android:id="@+id/continuation_of_existing_constitutional_provisions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/everyone_has_right_to_communicate_with_the_new_brunswick_government_in_english_or_french"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/continuation_of_existing_constitutional_provisions" />
+
+        <TextView
+            android:id="@+id/no_rights_are_stripped_from_subsection_16_to_20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/continuation_of_existing_constitutional_provisions"
+            android:layout_marginBottom="2dp"
+            android:text="@string/no_rights_are_stripped_from_subsection_16_to_20" />
+
+        <TextView
+            android:id="@+id/rights_and_privileges_preserved"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/no_rights_are_stripped_from_subsection_16_to_20"
+            android:layout_marginBottom="2dp"
+            android:textSize="12sp"
+            android:text="@string/rights_and_privileges_preserved" />
+
+        <TextView
+            android:id="@+id/nothing_in_subsections_16_to_20_strips_rights_to_other_languages"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rights_and_privileges_preserved"
+            android:layout_marginBottom="2dp"
+            android:text="@string/nothing_in_subsections_16_to_20_strips_rights_to_other_languages" />
+    </RelativeLayout>
+</ScrollView>
