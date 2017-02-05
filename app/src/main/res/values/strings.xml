@@ -170,4 +170,21 @@
     <string name="yukon_and_northwest_territories_must_be_mentioned">\t 30. A reference in this Charter to a province or to the legislative assembly or legislature of a province shall be deemed to include a reference to the Yukon Territory and the Northwest Territories, or to the appropriate legislative authority thereof, as the case may be.</string>
     <string name="legislative_powers_not_extended">Legislative powers not extended</string>
     <string name="nothing_in_this_charter_extends_the_legislative_powers_of_any_body_or_authority">\t 31. Nothing in this Charter extends the legislative powers of any body or authority.</string>
+
+    <!-- ApplicationOfCharterActivity Strings -->
+    <string name="application_of_charter__small">Application of Charter</string>
+    <string name="this_charter_applies">\t 32. (1) This Charter applies</string>
+    <string name="to_the_entire_canadian_government_system">\t (a) to the Parliament and government of Canada in respect of all matters within the authority of Parliament including all matters relating to the Yukon Territory and Northwest Territories; and</string>
+    <string name="to_the_provincial_governments">\t (b) to the legislature and government of each province in respect of all matters within the authority of the legislature of each province.</string>
+    <string name="exception">Exception</string>
+    <string name="section_15_shall_not_have_effect_until_three_years_after_this_section_comes_into_power">\t (2) Notwithstanding subsection (1), section 15 shall not have effect until three years after this section comes into force.</string>
+    <string name="exception_where_express_declaration">Exception where express declaration</string>
+    <string name="governments_can_override_section_2_or_7_to_15">\t 33. (1) Parliament or the legislature of a province may expressly declare in an Act of Parliament or of the legislature, as the case may be, that the Act or a provision thereof shall operate notwithstanding a provision included in section 2 or sections 7 to 15 of this Charter.</string>
+    <string name="operation_of_exception">Operation of exception</string>
+    <string name="an_act_or_a_provision_of_an_act_in_respect_of_which_a_declaration_made_under_this_section_is_in_effect_shall_have_such_operation_as_it_would_have_but_for_the_provision_of_this_charter_referred_to_in_the_declaration">\t (2) An Act or a provision of an Act in respect of which a declaration made under this section is in effect shall have such operation as it would have but for the provision of this Charter referred to in the declaration.</string>
+    <string name="five_year_limitation">Five year limitation</string>
+    <string name="the_exception_has_a_five_year_limit">\t (3) A declaration made under subsection (1) shall cease to have effect five years after it comes into force or on such earlier date as may be specified in the declaration.</string>
+    <string name="re_enactment">Re-enactment</string>
+    <string name="an_exception_can_be_re_enacted">\t (4) Parliament or the legislature of a province may re-enact a declaration made under subsection (1).</string>
+    <string name="subsection_5_applies_to_exception_rule_under_subsection_4">\t (5) Subsection (3) applies in respect of a re-enactment made under subsection (4).</string>
 </resources>
