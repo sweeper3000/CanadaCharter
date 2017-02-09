@@ -3,7 +3,7 @@
 	Please go through the checklist and tick from [ ] to [x] accordingly:
 -->
 ## I have:
-[ ] Checked open and closed issues for duplicates.
+- [ ] Checked open and closed issues for duplicates.
 
 ## Description
 Please write a description here
