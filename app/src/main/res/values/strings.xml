@@ -14,6 +14,7 @@
     <string name="actionbar__enforcement">Enforcement</string>
     <string name="actionbar__general">General</string>
     <string name="actionbar__application_of_charter">Application of Charter</string>
+    <string name="actionbar__about">About</string>
 
     <!-- Buttons -->
     <string name="guarantee_of_rights_and_freedoms">GUARANTEE OF RIGHTS AND FREEDOMS</string>

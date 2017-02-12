@@ -7,12 +7,13 @@
 
     <application
         android:allowBackup="false"
+        android:label="@string/app_name"
         android:icon="@mipmap/ic_launcher"
         android:roundIcon="@mipmap/ic_launcher_round"
-        android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        android:theme="@style/AppTheme" >
+        <activity android:name=".MainActivity"
+            android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -21,18 +22,55 @@
             <meta-data android:name="android.app.shortcuts"
                 android:resource="@xml/shortcuts" />
         </activity>
-        <activity android:name=".GuaranteeOfRightsAndFreedomsActivity" />
-        <activity android:name=".FundamentalFreedomsActivity" />
-        <activity android:name=".DemocraticRightsActivity" />
-        <activity android:name=".MobilityRightsActivity" />
-        <activity android:name=".LegalRightsActivity" />
-        <activity android:name=".EqualityRightsActivity" />
-        <activity android:name=".OfficialLanguagesOfCanadaActivity" />
-        <activity android:name=".MinorityLanguageEducationalRightsActivity" />
-        <activity android:name=".EnforcementActivity" />
-        <activity android:name=".GeneralActivity" />
-        <activity android:name=".ApplicationOfCharterActivity" />
-        <activity android:name=".About" />
+
+        <activity android:name=".GuaranteeOfRightsAndFreedomsActivity"
+            android:label="@string/actionbar__guarantee_of_rights_and_freedoms">
+        </activity>
+
+        <activity android:name=".FundamentalFreedomsActivity"
+            android:label="@string/actionbar__fundamental_freedoms">
+        </activity>
+
+        <activity android:name=".DemocraticRightsActivity"
+            android:label="@string/actionbar__democratic_rights">
+        </activity>
+
+        <activity android:name=".MobilityRightsActivity"
+            android:label="@string/actionbar__mobility_rights">
+        </activity>
+
+        <activity android:name=".LegalRightsActivity"
+            android:label="@string/actionbar__legal_rights">
+        </activity>
+
+        <activity android:name=".EqualityRightsActivity"
+            android:label="@string/actionbar__equality_rights">
+        </activity>
+
+        <activity android:name=".OfficialLanguagesOfCanadaActivity"
+            android:label="@string/actionbar__official_languages_of_canada">
+        </activity>
+
+        <activity android:name=".MinorityLanguageEducationalRightsActivity"
+            android:label="@string/actionbar__minority_language_educational_rights">
+        </activity>
+
+        <activity android:name=".EnforcementActivity"
+            android:label="@string/actionbar__enforcement">
+        </activity>
+
+        <activity android:name=".GeneralActivity"
+            android:label="@string/actionbar__general">
+        </activity>
+
+        <activity android:name=".ApplicationOfCharterActivity"
+            android:label="@string/actionbar__application_of_charter">
+        </activity>
+
+        <activity android:name=".About"
+            android:label="@string/actionbar__about">
+        </activity>
+
     </application>
 
 </manifest>
