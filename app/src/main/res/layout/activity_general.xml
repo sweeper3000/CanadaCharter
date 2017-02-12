@@ -16,18 +16,9 @@
         tools:context="io.github.sweeper3000.canadacharter.GeneralActivity">
 
         <TextView
-            android:id="@+id/title"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:layout_marginBottom="2dp"
-            android:text="@string/general" />
-
-        <TextView
             android:id="@+id/aboriginal_rights_and_freedoms_not_affected_by_charter"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/title"
             android:textSize="12sp"
             android:layout_marginBottom="2dp"
             android:text="@string/aboriginal_rights_and_freedoms_not_affected_by_charter" />

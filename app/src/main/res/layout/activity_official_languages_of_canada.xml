@@ -16,18 +16,9 @@
         tools:context="io.github.sweeper3000.canadacharter.OfficialLanguagesOfCanadaActivity">
 
         <TextView
-            android:id="@+id/title"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:layout_marginBottom="2dp"
-            android:text="@string/official_languages_of_canada" />
-
-        <TextView
             android:id="@+id/official_languages_of_canada__no_caps"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/title"
             android:layout_marginBottom="2dp"
             android:textSize="12sp"
             android:text="@string/official_languages_of_canada__no_caps" />

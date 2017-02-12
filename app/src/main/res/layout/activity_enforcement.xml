@@ -16,18 +16,9 @@
         tools:context="io.github.sweeper3000.canadacharter.EnforcementActivity">
 
         <TextView
-            android:id="@+id/title"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:layout_marginBottom="2dp"
-            android:text="@string/enforcement" />
-
-        <TextView
             android:id="@+id/enforcement_of_guaranteed_rights_and_freedoms"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/title"
             android:layout_marginBottom="2dp"
             android:textSize="12sp"
             android:text="@string/enforcement_of_guaranteed_rights_and_freedoms" />
