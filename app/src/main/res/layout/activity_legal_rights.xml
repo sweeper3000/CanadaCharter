@@ -15,20 +15,10 @@
         android:paddingTop="@dimen/activity_vertical_margin"
         tools:context="io.github.sweeper3000.canadacharter.LegalRightsActivity">
 
-
-        <TextView
-            android:id="@+id/title"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="2dp"
-            android:gravity="center"
-            android:text="@string/legal_rights" />
-
         <TextView
             android:id="@+id/life_liberty_and_security_of_the_person"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/title"
             android:layout_marginBottom="2dp"
             android:textSize="12sp"
             android:text="@string/life_liberty_and_security_of_the_person" />

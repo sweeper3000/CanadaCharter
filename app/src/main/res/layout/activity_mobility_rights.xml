@@ -16,18 +16,9 @@
         tools:context="io.github.sweeper3000.canadacharter.MobilityRightsActivity">
 
         <TextView
-            android:id="@+id/title"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="2dp"
-            android:gravity="center"
-            android:text="@string/mobility_rights" />
-
-        <TextView
             android:id="@+id/mobility_of_citizens"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/title"
             android:layout_marginBottom="2dp"
             android:textSize="12sp"
             android:text="@string/mobility_of_citizens" />

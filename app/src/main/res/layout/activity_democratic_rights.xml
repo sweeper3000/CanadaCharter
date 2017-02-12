@@ -16,18 +16,9 @@
         tools:context="io.github.sweeper3000.canadacharter.DemocraticRightsActivity">
 
         <TextView
-            android:id="@+id/title"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="2dp"
-            android:gravity="center"
-            android:text="@string/democratic_rights" />
-
-        <TextView
             android:id="@+id/democratic_rights_of_citizens"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/title"
             android:layout_marginBottom="2dp"
             android:textSize="12sp"
             android:text="@string/democratic_rights_of_citizens" />

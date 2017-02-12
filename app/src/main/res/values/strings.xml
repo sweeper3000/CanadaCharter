@@ -2,7 +2,21 @@
     <string name="app_name">Canada Charter</string>
     <string name="app_about">ABOUT</string>
 
-    <!-- Titles -->
+    <!-- ActionBar Strings-->
+    <string name="actionbar__guarantee_of_rights_and_freedoms">Guarantee of Rights and Freedoms</string>
+    <string name="actionbar__fundamental_freedoms">Fundamental Freedoms</string>
+    <string name="actionbar__democratic_rights">Democratic Rights</string>
+    <string name="actionbar__mobility_rights">Mobility Rights</string>
+    <string name="actionbar__legal_rights">Legal Rights</string>
+    <string name="actionbar__equality_rights">Equality Rights</string>
+    <string name="actionbar__official_languages_of_canada">Official Languages of Canada</string>
+    <string name="actionbar__minority_language_educational_rights">Minority Language Educational Rights</string>
+    <string name="actionbar__enforcement">Enforcement</string>
+    <string name="actionbar__general">General</string>
+    <string name="actionbar__application_of_charter">Application of Charter</string>
+    <string name="actionbar__about">About</string>
+
+    <!-- Buttons -->
     <string name="guarantee_of_rights_and_freedoms">GUARANTEE OF RIGHTS AND FREEDOMS</string>
     <string name="fundamental_freedoms">FUNDAMENTAL FREEDOMS</string>
     <string name="democratic_rights">DEMOCRATIC RIGHTS</string>
