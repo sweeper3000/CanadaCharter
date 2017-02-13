@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Canada Charter</string>
-    <string name="app_about">ABOUT</string>
 
     <!-- ActionBar Strings-->
     <string name="actionbar__guarantee_of_rights_and_freedoms">Guarantee of Rights and Freedoms</string>
