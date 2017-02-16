@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Canada Charter</string>
 
+    <!-- Menu Strings -->
+    <string name="menu__spread_the_word">Spread the word!</string>
+
     <!-- ActionBar Strings-->
     <string name="actionbar__guarantee_of_rights_and_freedoms">Guarantee of Rights and Freedoms</string>
     <string name="actionbar__fundamental_freedoms">Fundamental Freedoms</string>

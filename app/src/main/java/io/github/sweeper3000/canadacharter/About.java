@@ -7,7 +7,10 @@ import android.os.Build;
 import android.support.customtabs.CustomTabsIntent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
+import android.view.Menu;
+import android.view.MenuInflater;
 import android.graphics.Color;
 
 
@@ -18,6 +21,27 @@ public class About extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about);
     }
+
+    // Menu
+    /*@Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu_aboutactivity, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        final String GET_APP_STRING = "Get Canada Charter, an app to display the Canadian Charter of Rights and Freedoms at: ";
+        switch (item.getItemId()) {
+            case R.id.spread_the_word:
+                Intent share_app = new Intent(Intent.ACTION_SEND);
+                share_app.putExtra(Intent.EXTRA_TEXT, GET_APP_STRING);
+                share_app.setType("text/plain");
+                startActivity(share_app);
+        }
+        return true;
+    } */
 
     public boolean isInstalled(String pkg) {
         PackageManager pm = getPackageManager();
