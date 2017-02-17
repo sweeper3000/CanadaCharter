@@ -32,7 +32,7 @@ public class About extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        final String GET_APP_STRING = "Get Canada Charter, an app to display the Canadian Charter of Rights and Freedoms at: ";
+        final String GET_APP_STRING = "Know your rights with Canada Charter: ";
         switch (item.getItemId()) {
             case R.id.spread_the_word:
                 Intent share_app = new Intent(Intent.ACTION_SEND);
