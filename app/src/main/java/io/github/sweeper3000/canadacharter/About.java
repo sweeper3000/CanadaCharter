@@ -32,7 +32,7 @@ public class About extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        final String GET_APP_STRING = "Know your rights with Canada Charter: ";
+        final String GET_APP_STRING = getApplicationContext().getString(R.string.know_your_rights_with_canada_charter);
         switch (item.getItemId()) {
             case R.id.spread_the_word:
                 Intent share_app = new Intent(Intent.ACTION_SEND);
@@ -41,7 +41,7 @@ public class About extends AppCompatActivity {
                 startActivity(share_app);
         }
         return true;
-    } */
+    }*/
 
     public boolean isInstalled(String pkg) {
         PackageManager pm = getPackageManager();
