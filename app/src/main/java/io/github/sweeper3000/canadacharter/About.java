@@ -42,7 +42,7 @@ public class About extends AppCompatActivity {
     }
 
     // Menu
-    /*@Override
+    @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.menu_aboutactivity, menu);
@@ -52,15 +52,16 @@ public class About extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         final String GET_APP_STRING = getApplicationContext().getString(R.string.know_your_rights_with_canada_charter);
+        final String GET_APP_URL = "https://play.google.com/store/apps/details?id=io.github.sweeper3000.canadacharter";
         switch (item.getItemId()) {
             case R.id.spread_the_word:
                 Intent share_app = new Intent(Intent.ACTION_SEND);
-                share_app.putExtra(Intent.EXTRA_TEXT, GET_APP_STRING);
+                share_app.putExtra(Intent.EXTRA_TEXT, GET_APP_STRING + " " + GET_APP_URL);
                 share_app.setType("text/plain");
                 startActivity(share_app);
         }
         return true;
-    }*/
+    }
 
     public boolean isInstalled(String pkg) {
         PackageManager pm = getPackageManager();
