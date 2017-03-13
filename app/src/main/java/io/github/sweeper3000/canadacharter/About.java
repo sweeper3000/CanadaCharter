@@ -83,7 +83,7 @@ public class About extends AppCompatActivity {
         boolean isChromeInstalled = isInstalled("com.android.chrome");
 
         // Use Chrome Custom Tabs if Android is Jellybean or Above
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN || !isChromeInstalled) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN || isChromeInstalled) {
             CustomTabsIntent.Builder builder = new CustomTabsIntent.Builder();
             CustomTabsIntent github_intent = builder.build();
             builder.setToolbarColor(CUSTOM_TABS_TOOLBAR_COLOR);
