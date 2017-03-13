@@ -66,7 +66,6 @@
     <!-- MainActivity Strings -->
     <string name="canadian_charter_of_rights_and_freedoms">CANADIAN CHARTER OF RIGHTS AND FREEDOMS</string>
     <string name="canada_founded_on_rule_of_law">Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law:</string>
-    <string name="tap_the_buttons_to_go_to_a_section">Tap the buttons to go to a section.</string>
 
     <!-- GuaranteeOfRightsAndFreedomsActivity Strings -->
     <string name="rights_and_freedoms_in_canada">Rights and freedoms in Canada</string>

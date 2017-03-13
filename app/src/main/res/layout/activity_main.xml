@@ -51,19 +51,11 @@
             android:layout_below="@id/title"
             android:text="@string/canada_founded_on_rule_of_law" />
 
-        <TextView
-            android:id="@+id/click_buttons_text"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="10dp"
-            android:layout_below="@id/canada_founded_on_rule_of_law"
-            android:text="@string/tap_the_buttons_to_go_to_a_section" />
-
         <Button
             android:id="@+id/freedom_guarantee_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/click_buttons_text"
+            android:layout_below="@id/canada_founded_on_rule_of_law"
             android:layout_marginBottom="5dp"
             android:hint="@string/guarantee_of_rights_and_freedoms"
             android:onClick="toGuaranteeOfRightsAndFreedomsActivity" />
